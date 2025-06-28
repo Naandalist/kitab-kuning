@@ -1,0 +1,725 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "lesson_content": {
+        "arabic": {
+          "title": "بِمَاذَا يَتَخَلَّقُ الْوَلَدُ ؟",
+          "paragraphs": [
+            "يَجِبُ عَلَى الْوَلَدِ أَنْ يَتَخَلَّقَ بِالْأَخْلَاقِ الْحَسَنَةِ مِنْ صِغَرِهِ, لِيَعِيْشَ مَحْبُوْبًا فِي كِبَرِهِ : يَرْضَي عَنْهُ رَبُّهُ, وَيُحِبُّهُ أَهْلُهُ, وَجَمِيْعُ النَّاسِ.",
+            "وَ يَجِبُ عَلَيْهِ أَيْضًا, أَنْ يَبْتَعِدَ عَنِ الْأَخْلَاقِ الْقَبِيْحَةِ, كَيْلَا يَكُونَ مَكْرُوهًا : لاَ يَرْضَى عَنْهُ رَبُّهُ, وَلَا يُحِبُّهُ أَهْلُهُ, وَلَا أَحَدٌ مِنَ النَّاسِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Dengan apa seorang anak beradab?",
+          "paragraphs": [
+            "Wajib bagi seorang anak untuk berakhlak baik sejak kecil, agar ia hidup dicintai saat dewasa. Dengan demikian, Tuhannya akan rida kepadanya, keluarganya akan mencintainya, dan begitu pula semua orang.",
+            "Wajib pula baginya untuk menjauhi akhlak tercela agar ia tidak dibenci. Jika tidak, Tuhannya tidak akan rida kepadanya, keluarganya tidak akan mencintainya, dan tidak ada seorang pun dari manusia yang mencintainya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْوَلَدُ الْأَدِيْبُ",
+          "paragraphs": [
+            "أَلْوَلَدُ الْأَدِيْبُ يَحْتَرِمُ وَالِدَيْهِ وَمُعَلِّمِيْهِ , وَإِخْوَانَهُ الْكِبَارَ, وَكُلَّ مَنْ هُوَ أَكْبَرُ مِنْهُ , وَيَرْحَمُ إخْوَانَهُ الصِّغَارَ, وَكُلَّ مَنْ هُوَ أَصْغَرُ مِنْهُ.",
+            "وَيَصْدُقُ فِى كَلَامِهِ, وَيَتَوَاضَعُ مَعَ النَّاسِ, وَيَصْبِرُ عَلَى الْأَذَى, وَلَا يُقَاطِعُ الْأَوْلَادَ, وَلَا يَتَخَاصَمُ مَعَهُمْ, وَلَا يَرْفَعُ صَوْتَهُ إِذَا تَكَلَّمَ أَوْ ضَحِيْكَ"
+          ]
+        },
+        "indonesian": {
+          "title": "Anak yang Beradab",
+          "paragraphs": [
+            "Seorang anak yang beradab menghormati kedua orang tuanya, guru-gurunya, kakak-kakaknya, dan setiap orang yang lebih tua darinya. Ia juga menyayangi adik-adiknya dan setiap orang yang lebih muda darinya.",
+            "Ia selalu jujur dalam perkataannya, rendah hati terhadap sesama, dan sabar menghadapi gangguan. Ia tidak memutus silaturahmi dengan teman-temannya, tidak berkelahi dengan mereka, dan tidak meninggikan suara ketika berbicara atau tertawa."
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْوَلَدُ الْوَقِحُ",
+          "paragraphs": [
+            "أَلْوَلَدُ الْوَقِحُ : لَا يَتَأَدَّبُ مَعَ وَالِدَيْهِ وَأَسَاتِذَتِهِ, وَلَا يَحْتَرِمُ مَنْ هُوَ أكْبَرُ مِنْهُ ,",
+            "وَلَا يَرْحَمُ مَنْ هُوَ أَصْغَرُ مِنْهُ ,",
+            "وَيَكْذِبُ إذَا تَكَلَّمَ ,",
+            "وَ يَرْفَعُ صَوْتَهُ إذَا ضَحِيْكَ ,",
+            "وَ يُحِبُّ الشَّتْمَ ,",
+            "وَالْكَلَامَ الْقَبِيْحَ ,",
+            "وَالْمُخَاصَمَةَ وَيَسْتَهْزِئُ بِغَيْرِهِ ,",
+            "وَيَتَكَبَّرُ عَلَيهِ ,",
+            "وَلَا يَسْتَحْيِ أَنْ يَعْمَلَ قَبِيْحًا ,",
+            "وَلَا يَسْمَعُ النَّصِيْحَةَ"
+          ]
+        },
+        "indonesian": {
+          "title": "Anak yang Berakhlak Buruk",
+          "paragraphs": [
+            "Anak yang berakhlak buruk tidak beradab kepada kedua orang tuanya dan guru-gurunya, serta tidak menghormati orang yang lebih tua darinya.",
+            "Ia tidak menyayangi orang yang lebih muda darinya.",
+            "Ia selalu berbohong saat berbicara.",
+            "Ia mengeraskan suaranya ketika tertawa.",
+            "Ia suka mencaci maki.",
+            "Dan mengucapkan kata-kata yang buruk (tercela).",
+            "Serta suka bertengkar dan mengolok-olok orang lain.",
+            "Ia juga menyombongkan diri.",
+            "Ia tidak malu berbuat hal tercela.",
+            "Dan ia tidak suka mendengar nasihat."
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "lesson_content": {
+        "arabic": {
+          "title": "يَجِبُ أَنْ يَتَأَدَّبَ الْوَلَدُ مِنْ صِغَرِهِ",
+          "paragraphs": [
+            "اَحْمَدُ وَلَدٌ صَغِيْرٌ لَكِنَّهُ أَدِيْبٌ , وَلِهَذَا يُحِبُّهُ أَبُوْهُ وَهُوَ أَيْضًا يُحِبُّ السُّؤَالَ عَنْ كُلِّ شَيْءٍ لَا يَفْهَمْهُ.",
+            "وَذَاتَ يَوْمٍ تَنَزَّهَ مَعَ أَبِيْهِ فِي بُسْتَانٍ فَرَآى شَجَرَةَ وَرْدٍ جَمِيْلَةً , وَلَكِنَّهَا مُعْوَجَّةٌ, فَقَالَ أَحْمَدُ : مَا أَجْمَلَ هَذِهَ الشَّجَرَةَ! وَلَكِنْ لِمَاذَا يَا أَبِي هِيَ مُعْوَجَّةٌ ؟ فَقَالَ اْلأَبُ : لِأَنَّ الْبُسْتَانِيَّ لَمْ يَعْتَنِ بِتَقْوِيْمِهَا, مِنْ صِغَرِهَا , فَصَارَتْ مُعْوَجَّةً فَقَالَ اَحْمَدُ : اْلأَحْسَنُ أَنْ نُقَوِّمَهَا الْآنَ, فَضَحِكَ أَبُوْهُ وَقَالَ لَهُ : لَا يَتَأَتَّي ذَلِكَ يَاوَلَدِي لِأَنَّهَا قَدْ كَبُرَتْ, وَغَلُظَتْ سَاقُهَا.",
+            "فَكَذَلِكَ الْوَلَدُ, الَّذِي لَمْ يَتَأَدَّبْ مِنْ صِغَرِهِ, لَا يُمْكِنُ تَأْدِيْبُهُ فِي كِبَرِهِ."
+          ]
+        },
+        "indonesian": {
+          "title": "Pendidikan Karakter Sejak Kecil Sangat Penting",
+          "paragraphs": [
+            "Ahmad adalah seorang anak kecil, tetapi ia beradab. Oleh karena itu, ayahnya menyayanginya. Ia juga suka bertanya tentang segala sesuatu yang tidak ia pahami.",
+            "Suatu hari, ia berjalan-jalan bersama ayahnya di sebuah kebun, lalu ia melihat pohon mawar yang indah tetapi bengkok. Ahmad pun bertanya, 'Betapa indahnya pohon ini! Tapi mengapa ia bengkok, Ayah?' Sang Ayah menjawab, 'Karena tukang kebun tidak merawat dan meluruskannya sejak kecil, sehingga jadilah ia bengkok.' Ahmad kemudian berkata, 'Lebih baik kita meluruskannya sekarang saja!' Ayahnya tertawa dan berkata kepadanya, 'Itu tidak mungkin, Nak, karena pohon itu sudah tumbuh besar dan batangnya sudah menebal.'",
+            "Demikian pula halnya dengan seorang anak yang tidak dibiasakan beradab sejak kecil, tidak mungkin ia bisa dibentuk karakternya ketika sudah dewasa."
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَللَّهُ سُبْحَانَهُ وَ تَعَالَي",
+          "paragraphs": [
+            "أَيُّهَا الْوَلَدُ الْعَزِيْزُ: اَللَّهُ سُبْحَانَهُ وَتَعَالَى هُوَ الَّذِى خَلَقَكَ, وَحَسَّنَ صُوْرَتَكَ, بِأَنْ أَعْطَكَ عَيْنَيْنِ, تَنْظُرُ بِهِمَا الْأَشْيَاءَ, وَأُذُنَيْنِ تَسْمَعُ بِهِمَا الْأَصْوَاتَ, وَلِسَانًا تَتَكَلَّمُ بِهِ, وَيَدَيْنِ تَسْتَعْمِلُهُمَا فِي أَشْغَالِكَ, وَرِجْلَيْنِ تَمْشِي عَلَيْهِمَا, وَعَقْلًا تَعْرِفُ بِهِ الْخَيْرَمِنَ الشَّرِّ, وَأَنْعَمَ عَلَيْكَ بِالصِّحَّةِ وَالْعَافِيَةِ, وَوَضَعَ الرَّحْمَةَ فِى قُلُوبِ وَالِدَيْكَ, حَتَّى رَبَّيَاكَ تَرْبِيَةًحَسَنَةً.",
+            "فَيَجِبُ عَلَيكَ أَنْ تُعَظِّمَ رَبَّكَ وَتُحِبَّهُ, وَتَشْكُرَهُ عَلَى جَمِيْعِ نِعَمِهِ: بِأَنْ تَمْتَثِلَ أَوَامِرَهُ, وَتَجْتَنِبَ نَوَاهِيَهُ, وَأَنْ تُعَظِّمَ أَيْضَا جَمِيْعَ مَلآئِكَتِهِ, وَرُسُلِهِ, وَأَنْبِيَائِهِ, وَالصَّالِحِيْنَ مِنْ عِبَادِهِ, وَتُحِبَّهُمْ لِأنَّهُ تَعَالَى يُحِبُّهُمْ.",
+            "إذَا أَحْبَبْتَ رَبَّكَ, وَامْتَثَلَتْ أَوَامِرَهُ, وَاجْتَنَبْتَ نَوَاهِيَهُ, زَادَكَ مِنْ نِعَمِهِ, وَجَعَلَكَ مَحْبُوْبًا بَيْنَ النَّاسِ, وَحَفِظَكَ مِنْ كُلِّ أَذًاى, وَأَعْطَكَ كُلَّ مَا تُرِيْدُ: مِنَ الرِّزْقِ وَ غَيْرِهِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Nikmat-nikmat dari Allah SWT",
+          "paragraphs": [
+            "Wahai anakku yang mulia: Allah Subhanahu Wa Ta'ala adalah Dzat yang menciptakanmu dan menyempurnakan bentukmu. Dia memberimu dua mata untuk melihat berbagai hal, dua telinga untuk mendengar suara, sebuah lisan untuk berbicara, dua tangan untuk mengerjakan segala urusanmu, dua kaki untuk berjalan, dan akal untuk membedakan yang baik dari yang buruk. Dia juga menganugerahkan kepadamu kesehatan dan keafiatan, serta menanamkan kasih sayang di hati kedua orang tuamu, sehingga mereka mendidikmu dengan didikan yang baik.",
+            "Maka, wajib bagimu untuk mengagungkan dan mencintai Tuhanmu, serta mensyukuri seluruh nikmat-Nya. Caranya adalah dengan menjalankan perintah-Nya dan menjauhi larangan-Nya. Wajib juga bagimu untuk mengagungkan seluruh malaikat-Nya, rasul-rasul-Nya, nabi-nabi-Nya, dan orang-orang saleh dari hamba-hamba-Nya, serta mencintai mereka karena sesungguhnya Dia mencintai mereka.",
+            "Jika kamu mencintai Tuhanmu, menjalankan perintah-Nya, dan menjauhi larangan-Nya, niscaya Dia akan menambah nikmat-Nya kepadamu, menjadikanmu dicintai di antara manusia, menjagamu dari segala bahaya, dan memberimu segala yang kamu inginkan, baik berupa rezeki maupun hal lainnya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 7,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْوَلَدُ الْأَمِيْنُ",
+          "paragraphs": [
+            "مُحَمَّدٌ وَلَدٌ أَمِيْنٌ, يَخَافُ اللَّهَ, وَيَمْتَثِلُ أَمْرَهُ, وَذَاتَ يَوْمٍ قَالَتْ لَهُ أُخْتُهُ سُعَادُ: يَاأَخِي, إنَّ أَبَانَا قَدْ خَرَجَ مِنَ الْبَيْتِ, فَهَلُمَّ بِنَا نَفْتَحْ خِزَانَةَ الطَّعَامِ لِنَأْكُلَ مَا فِيْهَا مِنَ الْمَأْ كُوْلَاتِ اللَّذِيْذَةِ, فَأَبُوْنَا لَا يَنْظُرُ إلَيْنَا.",
+            "فَأَجَابَهَا مُحَمَّدٌ: حَقِيْقَةً يَا أُخْتِي, إنَّ أَبَانَا لَايَنْظُرُ إلَيْنَا, وَلَكِنْ أَمَا تَعْلَمِيْنَ: أَنَّ اللَّهَ هُوَ الَّذِى يَنْظُرُ إلَيْنَا. فَاحْذَرِى مِثْلَ هَذَا الْعَمَلِ الْقَبِيْحِ, لِأنَّكِ لَوْأَخَذْتِ شَيْئًا بِغَيْرِ رِضَا أَبِيْكِ, فَإنَّ اللَّهَ يَغْضَبُ عَلَيْكِ, وَسَوْفَ يُعَاقِبُكِ.",
+            "فَخَافَتْ سُعَادُ, وَاسْتَحَتْ مِنْ سُوْءِ نِيَّتِهَا, وَقَالَتْ: صَحِيْحٌ كَلَامُكَ يَاأَخِي, وَأَشْكُرُكَ كَثِيْرًا, عَلَى هَذِهِ النَّصِيْحَةِ الطَّيِّبَةِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Anak yang Jujur",
+          "paragraphs": [
+            "Muhammad adalah anak yang jujur, ia takut kepada Allah dan selalu menaati perintah-Nya. Suatu hari, adiknya, Su'ad, berkata kepadanya, 'Wahai kakakku, Ayah kita sudah keluar rumah. Mari kita buka lemari makanan untuk mengambil camilan lezat yang ada di dalamnya, karena Ayah tidak melihat kita.'",
+            "Muhammad menjawabnya, 'Benar, adikku, Ayah memang tidak melihat kita. Tapi apakah kamu tidak tahu bahwa sesungguhnya Allahlah yang melihat kita? Berhati-hatilah dengan perbuatan buruk seperti ini, karena jika kamu mengambil sesuatu tanpa rida Ayahmu, maka Allah akan murka kepadamu dan akan menghukummu.'",
+            "Mendengar itu, Su'ad merasa takut dan malu atas niat buruknya. Ia berkata, 'Perkataanmu benar, Kakak. Aku sangat berterima kasih atas nasihat baik ini.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْوَلَدُ الْمُطِيْعُ",
+          "paragraphs": [
+            "حَسَنٌ وَلَدٌ مُطِيْعٌ: يُصَلِّى كُلَّ يَوْمٍ, الصَّلَوَاتِ الخَمْسَ فِي أَوْقَاتِهَا, وَيُوَاظِبُ عَلَى الْحُضُوْرِ فِى الْمَدْرَسَةِ, وَعَلَى قِرَاءَةِ الْقُرْآنِ, وَمُطَالَعَةِ الدُّرُوْسِ فِي الْبَيْتِ, وَلِذَالِكَ يُحِبُّهُ أَبُوْهُ وَأُمُّهُ, وَأَسَاتِذَتُهُ وَجَمِيْعُ النَّاسِ.",
+            "وَمِنْ عَادَتِهِ إذَا أَرَادَ النَّوْمَ: أَنْ يَّذْكُرَاللَّهَ, وَيَشْكُرَهُ عَلَى أَنْ حَفِظَهُ طُوْلَ يَوْمِهِ, مِنَ الْبَلاَءِ وَالْأَذَى, ثُمَّ يَقُوْلَ: بِاسْمِكَ اللَّهُمَّ أَحْيَا وَأَمُوْتُ, وَإذَا قَامَ مِنْ نَوْمِهِ, يَشْكُرُاللَّهَ عَلَى نِعْمَةِ النَّوْمِ, وَيَقُوْلُ: اَلْحَمْدُلِلَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإلَيْهِ النُّشُوْرُ.",
+            "وَمِنْ عَادَتِهِ أَيْضًا إذَا أَكَلَ: أَنْ يَقُوْلَ أَوَّلَا: بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْمِ, وَإذَا فَرَغَ مِنْهُ, يَشْكُرُاللَّهَ عَلَى نِعْمَةِ الْأَكْلِ, لِأَنَّهُ يَعْلَمُ أَنَّ اللَّهَ هُوَ الَّذِي أَوْجَدَ لَهُ الطَّعَامَ, وَيَقُوْلُ: أَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِى هَذَا الطَّعَامَ, وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلَا قُوَّةٍ. مَا أَسْعَدَ هَذَا الْوَلَدَ الْمُطِيْعَ: يَرْضَى عَنْهُ رَبُّهُ وَسَوْفَ يُدْخِلُهُ الْجَنَّةَ"
+          ]
+        },
+        "indonesian": {
+          "title": "Anak yang Taat",
+          "paragraphs": [
+            "Hasan adalah seorang anak yang taat. Ia salat lima waktu setiap hari pada waktunya, dan ia rutin hadir di sekolah. Ia juga rajin membaca Al-Qur'an dan mengulang pelajaran di rumah. Oleh karena itu, ia dicintai oleh ayah dan ibunya, guru-gurunya, dan seluruh manusia.",
+            "Di antara kebiasaannya ketika hendak tidur adalah berzikir kepada Allah dan bersyukur kepada-Nya karena telah menjaganya sepanjang hari dari bencana dan bahaya. Kemudian ia mengucapkan: 'Bismika Allahumma ahya wa amutu (Dengan nama-Mu, ya Allah, aku hidup dan aku mati).' Dan ketika ia bangun dari tidurnya, ia bersyukur kepada Allah atas nikmat tidur, lalu mengucapkan: 'Alhamdulillahilladzi ahyana ba'da ma amatana wa ilaihin nusyur (Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami, dan kepada-Nya lah kami akan kembali).'",
+            "Di antara kebiasaannya juga adalah ketika makan, ia selalu mengucapkan: 'Bismillahirrahmanirrahim (Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang)' terlebih dahulu. Dan ketika selesai makan, ia bersyukur kepada Allah atas nikmat makanan tersebut, karena ia tahu bahwa Allahlah yang menyediakan makanan itu baginya. Ia pun mengucapkan: 'Alhamdulillahilladzi ath'amani hadzat-tha'am wa razaqanihi min ghairi hawlin minni wa la quwwah (Segala puji bagi Allah yang telah memberiku makan ini, dan menganugerahkannya kepadaku tanpa daya dan kekuatan dariku).' Betapa beruntungnya anak yang taat ini! Tuhannya akan rida kepadanya dan kelak akan memasukkannya ke dalam surga."
+          ]
+        }
+      }
+    },
+    {
+      "id": 9,
+      "lesson_content": {
+        "arabic": {
+          "title": "أَيُّهَا الْوَلَدُ الْأَدِيْبُ,",
+          "paragraphs": [
+            "أَيُّهَا الْوَلَدُ الْأَدِيْبُ, كَمَا يَجِبُ عَلَيْكَ أَنْ تُعَظِّمَ رَبَّكَ, سُبْحَانَهُ وَ تَعَالَى, يَجِبُ عَلَيْكَ أَيْضًا, أَنْ تُعَظِّمَ نَبِيَّكَ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ, وَتمْلَأَ قَلْبَكَ بِمَحَبَّتِهِ, حَتَّى تُحِبَّهُ أكْثَرَ مِنْ مَحَبَّتِكَ لِوَالِدَيْكَ وَلِنَفْسِكَ, لِأَنَّهُ الَّذِي عَلَّمَنَا دِيْنَ الْإسْلَامِ, وَبِسَبَبِهِ عَرَفْنَا رَبَّنَا, وَفَرَّقْنَا بَيْنَ الْحَلَالِ وَالْحَرَامِ, وَلِأَنَّ اللَّهَ تَعَالَى أَحَبَّهُ, فَجَعَلَهُ أَفْضَلَ النَّاسِ, وَصَيَّرَهُ قُدْوَةً لَنَا فِى الْأَخْلَاقِ وَالْأَدَابِ.",
+            "إذَا أَحْبَبْتَ نَبِيَّكَ صَلىَّ اللَّهُ عَلَيْهِ وَآلِهِ وَسَلَّامَ, فَاتَّبِعْهُ فِى سِيْرَتِهِ, وَاعْمَلْ بِنَصَائِحِهِ, لِتَنَالَ مَحَبَّةَ اللَّهِ وَرِضَاهُ"
+          ]
+        },
+        "indonesian": {
+          "title": "Wahai Anak yang Berbudi Pekerti Luhur",
+          "paragraphs": [
+            "Wahai anak yang beradab, sebagaimana engkau wajib mengagungkan Tuhanmu, Allah Subhanahu Wa Ta'ala, demikian pula wajib bagimu untuk mengagungkan Nabimu, Muhammad Shallallahu 'alaihi wa alihi wa sallam. Penuhilah hatimu dengan kecintaan kepadanya, hingga engkau mencintainya melebihi cintamu kepada kedua orang tuamu dan dirimu sendiri. Ini karena beliaulah yang mengajarkan kita agama Islam, dan berkatnya kita mengenal Tuhan kita serta mampu membedakan antara yang halal dan haram. Dan karena Allah Ta'ala mencintainya, Dia menjadikannya manusia terbaik dan teladan bagi kita dalam akhlak dan adab.",
+            "Apabila engkau telah mencintai Nabimu, Muhammad Shallallahu 'alaihi wa alihi wa sallam, maka ikutilah jejak langkahnya dalam sirahnya dan amalkanlah nasihat-nasihatnya, agar engkau meraih cinta dan rida Allah."
+          ]
+        }
+      }
+    },
+    {
+      "id": 10,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ الْمَنْزِلِ",
+          "paragraphs": [
+            "يَجِبُ عَلَى الْوَلَدِ أنْ يُرَاعِيَ الْأَدَبَ فِي مَنْزِلِهِ, بِأَنْ يَحْتَرِمَ وَالِدَيْهِ, وَإخْوَانَهُ وَأَخَوَاتِهِ, وَكُلَّ مَنْ فِي الْمَنْزِلِ, وَلَا يَعْمَلَ شَيْئًا يُغْضِبُ أَحَدًا مِنْهُمْ, وَلَا يُعَانِدَ أَخَاهُ الْكَبِيْرَ, وَلَا يُخَاصِمَ أَخَاهُ الصَّغِيْرَ, وَلَا يُؤْذِيَ الْخَاِدمَ, وَإِذَا لَعِبَ بِنَظَامٍ, بِغَيْرِ صِيَاحٍ وَلَا حَرَكَتِ لَا تَلِيْقُ بِهِ, لَا سِيَّمَا إذَا كَانَ أَحَدٌ فِي الْبَيْتِ نَائِمًا اَوْ مَرِيْضًا.",
+            "وَأَنْ يُحَافِظَ عَلَى أَدَوَاتِ اْلمَنْزِلِ: فَلَا يَكْسِرَ الْأَوَانِيَ, وَلَا يُغَيِّرَ الْأَبْوَابَ, وَلَا يُفْسِدُ الْأَشْجَارَ, وَإِذَا كَانَ عِنْدَهُ هِرٌّ أَوْ دَجَاجٌ, يُقَدِّمُ لَهُ الطَّعَامَ وَالشَّرَابَ وَلَا يُؤْذِيْهِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab saat berada di Rumah",
+          "paragraphs": [
+            "Wajib bagi seorang anak untuk menjaga adab di rumahnya, yaitu dengan menghormati kedua orang tuanya, saudara-saudari, dan setiap orang yang ada di rumah. Ia tidak boleh melakukan sesuatu yang membuat salah satu dari mereka marah, tidak membantah kakak yang lebih tua, tidak bermusuhan dengan adik yang lebih muda, dan tidak menyakiti pembantu. Jika bermain, ia harus bermain dengan tertib, tanpa berteriak-teriak atau melakukan gerakan yang tidak pantas, terutama jika ada seseorang di rumah yang sedang tidur atau sakit.",
+            "Dan ia harus menjaga peralatan rumah: tidak memecahkan perkakas, tidak merusak pintu, tidak merusak pohon-pohon. Jika ia memiliki kucing atau ayam, ia harus memberinya makan dan minum, serta tidak menyakitinya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 11,
+      "lesson_content": {
+        "arabic": {
+          "title": "عَبْدُ اللَّهِ فِي مَنْزِلِهِ",
+          "paragraphs": [
+            "عَبْدُاللَّهِ فِي مَنْرِلِهِ مِثَالُ اْلأَدَبِ وَالنَّظَامِ: يَغْتَسِلُ كُلَّ صَبَاحٍ وَمَسَاءٍ, وَيَعْتَنِى بِنَظَافَةِ مَلَابِسِهِ وَكُتُبِهِ, وَيَضَعُهَا مُرَتَّبَةً فَي مَحَلٍّ خَاصٍّ, وَلَا يَتَمَخَّطُ فِي ثَوْبِهِ أَوْ فِي اْلجِدَارِ وَلَكِنْ فِي اْلمِنْدِيْلِ, وَلَا يَبْصُقُ عَلَى اْلقَاعَةِ, وَلَا يُوَسِّخُ اْلأَبْوَابَ, وَلَا يَكْتُبُ فِي اْلجُدْرَانِ, أَوْ يَتَسَلَّقُ اْلأَشْجَارَ, وَلَا يَلْعَبُ بِرَمِى اْلأَحْجَارِ, كَيْلَا يَكْسِرَ زُجَاجَ النَّوَافِذِ, أَوْ يُؤْذِيَ غَيْرَهُ.",
+            "وَكَانَ عَبْدُاللَّهِ يُصَافِحُ وَالِدَيْهِ, وَإِخْوَانَهُ وَأَخَوَاتِهِ كُلَّ صَبَاحٍ وَ مَسَاءٍ,وَلَا يَدْخُلُ غُرْفَةَ أَحَدٍ مِنْ غَيْرِ اْسْتِئْذَانٍ, وَلَا يُحِبُّ أَنْ يَجْلِسَ مَعَ اْلأَخْدَامِ, وَلِا يُخْبِرُ أَحَدًا, بِمَا يَقَعُ فِي مَنْزِلِهِ.",
+            "وَمِنْ عَادَتِهِ أَنْ يَنَامَ مُبَكِّرًا, وَيَقُوْمَ مُبَكِّرًا, وَأَنْ يُحَافِظَ عَلَى صَلَوَاتِهِ, وَيُطَالِعَ دُرُوْسَهُ, وَلَا يَلْعَبَ إِلَّا فِي وَقْتِ الَّعِبِ, وَأَنْ يَسْمَعَ نَصَائِحَ أَبِيْهِ وَأُمِّهِ.",
+            "بِذَالِكَ يَنَالُ عَبْدُاللَّهِ رِضَى وَاِلدَيْهِ وَأَهْلِهِ, وَيَعِيْشُ مَعَهُمْ سَعِيْدًا مَسْرُوْرًا"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab Abdullah di Rumahnya",
+          "paragraphs": [
+            "Abdullah adalah contoh anak yang beradab dan rapi di rumahnya. Ia mandi setiap pagi dan sore, senantiasa menjaga kebersihan pakaian dan buku-bukunya, serta meletakkannya dengan rapi di tempat khusus. Ia tidak menyeka ingusnya di pakaian atau di dinding, melainkan di sapu tangan. Ia tidak meludah di lantai, tidak mengotori pintu, tidak mencoret-coret dinding, tidak memanjat pohon, dan tidak bermain lempar batu agar tidak memecahkan kaca jendela atau melukai orang lain.",
+            "Abdullah terbiasa bersalaman dengan kedua orang tua, saudara laki-laki, dan saudara perempuannya setiap pagi dan sore. Ia tidak memasuki kamar orang lain tanpa izin, tidak suka duduk berlama-lama dengan pembantu, dan tidak menceritakan apa pun yang terjadi di rumahnya kepada siapa pun.",
+            "Di antara kebiasaannya adalah tidur lebih awal dan bangun lebih awal, menjaga salat-salatnya (pada waktunya), mengulang pelajarannya, tidak bermain kecuali pada waktu bermain, dan mendengarkan nasihat ayah serta ibunya.",
+            "Dengan demikian, Abdullah mendapatkan rida dari kedua orang tua dan keluarganya, dan ia hidup bahagia serta gembira bersama mereka."
+          ]
+        }
+      }
+    },
+    {
+      "id": 12,
+      "lesson_content": {
+        "arabic": {
+          "title": "أُمُّكَ الرَّحِيْمَةُ",
+          "paragraphs": [
+            "إِعْلَمْ يَا بُنَيَّ: أَنْ اُمَّكَ تَبِعَتْ كَثِيْرًا مِنْ أَجْلِكَ: حَمَلَتْكَ فِي بَطْنِهَا تِسْعَةَ أَشْهُرٍ, ثُمَّ أَرْضَعَتْكَ وَرَبَّتْكَ تَرْبِيَةً حَسَنَةً إِلَى أَنْ كَبِرْتَ, وَنَظَّفَتْ جِسْمَكَ وَثِيَابَكَ, وَهَيَّأَتْ فِرَاشَكَ وَطَعَامَكَ, وَحَرَسَتْكَ مِنْ كُلِّ أَذًى.",
+            "أُمُّكَ رَحِيْمَةٌ بِكَ, وَتُحِبُّكَ كَثِيْرًا, وَتَتَمَنَّى أَنْ تَكُوْنَ أَحْسَنَ اْلأَوْلَادِ, وَهِيَ مَعَ تَعَبِهَا مِنْ اَجْلِكَ صَابِرَةٌ عَلَيْكَ, مَسْرُوْرَةٌ بِكَ, تَفْرَحُ جِدًّا إِذَا فَرِحْتَ, وَرَأَتْكَ بِصِحَّةٍ وَعَافِيَةٍ, وَتَحْزَنُ إِذَا حَزِنْتَ, أَوْ كُنْتَ مَرِيْضًا, فَتَجْتَهِدُ فِي إِحْضَارِ الدَّوَاءِ, وَتَدْعُوْلَكَ بِالشِّفَاءِ, وَلَا تَسْتَرِيْحُ إِلَّا إِذَا تَعَافَيْتَ تَمَامًا.",
+            "أُنْظُرْ اِلَى أَخِيْكَ الصَّغِيْرِ, كَيْفَ تَتْعَبُ أُمُّكَ فِي تَرْبِيَتِهِ, وَكَيْفَ تُحِبُّهُ مَحَبَّةً شَدِيْدَةً, لِتَعْرِفَ حَالَتَكَ فِي صِغَرِكَ."
+          ]
+        },
+        "indonesian": {
+          "title": "Ibumu yang Penyayang",
+          "paragraphs": [
+            "Ketahuilah, anakku: Sesungguhnya ibumu telah banyak berkorban demi dirimu. Ia mengandungmu di dalam perutnya selama sembilan bulan, kemudian menyusuimu dan mendidikmu dengan didikan yang baik hingga engkau besar. Ia membersihkan tubuhmu dan pakaianmu, menyiapkan tempat tidur dan makananmu, serta menjagamu dari segala bahaya.",
+            "Ibumu sangat menyayangimu dan mencintaimu, serta sangat berharap engkau menjadi anak terbaik. Meskipun lelah demi dirimu, ia tetap sabar menghadapimu, dan bahagia bersamamu. Ia akan sangat gembira jika kamu bahagia dan melihatmu dalam keadaan sehat dan sejahtera. Ia akan bersedih jika kamu bersedih atau sakit, maka ia akan berusaha keras mencarikan obat dan mendoakan kesembuhan bagimu, serta tidak akan beristirahat sampai kamu benar-benar pulih.",
+            "Lihatlah adikmu yang masih kecil, bagaimana ibumu bersusah payah mendidiknya, dan bagaimana ia mencintainya dengan sangat tulus, agar engkau memahami kondisimu saat masih kecil dahulu."
+          ]
+        }
+      }
+    },
+    {
+      "id": 13,
+      "lesson_content": {
+        "arabic": {
+          "title": "دَابُ الْوَلَدِ مَعَ أُمِّهِ",
+          "paragraphs": [
+            "أَيُّهَا اْلوَلَدُ اْلأَدِيْبُ! إِذَا عَرَفْتَ تَعَبَ أُمِّكَ فِي تَرْبِيَتِكَ, وَعُظْمَ مَحَبَّتِهَا لَكَ, فَبِمَا ذَا تَجْزِيْهَا ؟ طَبْعًا إِنَّكَ لَا تَقْدِرُ أَنْ تَجْزِيَ أُمَّكَ, وَمَا عَلَيْكَ إِلَّا أَنْ تَعْمَلَ بِهَذِهِ اْلآدَابِ:",
+            "أَنْ تَمْتَثِلَ أَوامِرَهَا، مَعَ الْمَحَبَّةِ وَالْإِحْتِرَامِ، وَتَعْمَلَ كُلَّ شَيْءٍ يُفَرِّحُ قَلْبَهَا، وَتَبْتَسِمَ أَمَامَهَا دَائِمًا، وَتُصَافِحَهَا كُلَّ يَوْمٍ، وَتَدْعُوَ لَهَابِطُوْلِ الْعُمْرِ، فِي صِحَّةٍ وَعَافِيَةٍ.",
+            "وَأَنْ تَحْذَرَ مِنْ كُلِّ شَيْءٍ يُؤْذِى قَلْبَهَا، فَلَا تَعْبِسَ بِوَجْهِكَ، إِذَا أَمَرَتْكَ بِشَيْءٍ، أَوْ غَضِبَتْ عَلَيْكَ، وَلَاتَكْذِبَ عَلَيْهَا، أَوْ تَشْتِمَهَا، أَوْ تَتَكَلَّمَ أَمَامَهَا بِكَلَامٍ قَبِيْحٍ، أَوْ تَنْظُرَ إِلَيْهَا بِعَيْنٍ حَادَّةٍ، وَلَا تَرْفَعَ صَوْتَكَ فَوْقَ صَوْتِهَا، وَإِذَاطَلَبْتَ مِنْ أُمِّكَ شَيْئًا، فَلَاتَطْلُبْهُ أَمَامَ الضَّيْفِ، وَإِذَا مَنَعَتْكَ فَاْسْكُتُ، وَلَا تَغْضَبْ أَوْ تَبْكِ، أَوْ تُهَمْهِمْ عَلَيْهَا"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab Seorang Anak kepada Ibundanya",
+          "paragraphs": [
+            "Wahai anak yang beradab! Jika engkau telah mengetahui betapa lelahnya ibumu dalam mendidikmu, dan betapa besarnya cintanya kepadamu, lalu dengan apa engkau akan membalasnya? Tentu saja engkau tidak akan mampu membalas ibumu sepenuhnya. Yang wajib bagimu hanyalah mengamalkan adab-adab ini:",
+            "Hendaknya engkau menaati perintah-perintahnya dengan penuh cinta dan hormat, melakukan segala sesuatu yang menyenangkan hatinya, selalu tersenyum di hadapannya, bersalaman dengannya setiap hari, serta mendoakannya agar berumur panjang dalam keadaan sehat dan sejahtera.",
+            "Dan hendaknya engkau berhati-hati dari segala sesuatu yang dapat menyakiti hatinya. Jangan bermuka masam jika ia memerintahmu sesuatu atau marah kepadamu. Jangan pula berbohong kepadanya, mencacinya, berbicara di hadapannya dengan kata-kata yang buruk, atau memandangnya dengan tatapan tajam. Jangan pula meninggikan suaramu melebihi suaranya. Jika engkau meminta sesuatu kepada ibumu, jangan memintanya di hadapan tamu. Dan jika ia melarangmu, diamlah. Jangan marah, menangis, atau merengek kepadanya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 14,
+      "lesson_content": {
+        "arabic": {
+          "title": "صَالِحٌ وَ أُمُّهُ",
+          "paragraphs": [
+            "صَالِحُ وَلَدٌ بَارٌّ بِأُمِّهِ، وَذَاتَ يَوْمٍ مَرِضَتْ أُمُّهُ، فَحَزِنَ كَثِيْرًا، وَاْسْتَأْذَنَ مِنْ أَسَاتِذَتِهِ: أَنْ يَجْلِسَ عِنْدَهَا فِي الْبَيْتِ، لِيَخْدَمُهَا، لِأَنَّهَامَاعِنْدَهَا خَادِمَةٌ.",
+            "فَكَانَ صَالِحٌ تَارَةً يَشْتًرِى لَهَا دَوَاءً مِنَ الصَّيْدَلِيَّةِ، وَتَارَةً يَشْتَرِى لَهِا طَعَامًا وَفَوَاكِهَا مِنَ السُّوْقِ، وَيُقَدِّمُ إِلَيْهَا كُلَّمَا تَحْتَاجُ إِلَيْهِ مِنْ طَعَامٍ أَوْدَوَاءٍ، وَيُسَلِّى قَلْبَهَا بِالْكَلَامِ الْجَمِيْلِ.",
+            "وَبَعْدَ اَيَّامٍ، شُفِيَتْ مِنْ مَرَاضِهَا، فَفَرِحَ صَالِحٌ فَرَحًا شَدِيْدًا، وَلَا يَزَالُ يَدْعُو اللهَ أَنْ يَحْفَظَ أُمَّهُ، وَيُدِيْمَ صِحَّتَهَا"
+          ]
+        },
+        "indonesian": {
+          "title": "Sholeh bersama Ibundanya",
+          "paragraphs": [
+            "Shalih adalah anak yang berbakti kepada ibunya. Suatu hari, ibunya sakit, sehingga Shalih sangat bersedih. Ia pun meminta izin kepada guru-gurunya untuk tinggal di rumah merawat ibunya, karena ibunya tidak memiliki pembantu.",
+            "Shalih kadang membeli obat untuk ibunya di apotek, dan kadang membeli makanan serta buah-buahan dari pasar. Ia senantiasa menyediakan semua kebutuhan ibunya, baik makanan maupun obat-obatan, dan menghibur hati ibunya dengan perkataan yang baik.",
+            "Beberapa hari kemudian, ibunya sembuh dari sakitnya. Shalih merasa sangat gembira, dan ia tidak henti-hentinya berdoa kepada Allah agar menjaga ibunya dan senantiasa melanggengkan kesehatannya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 15,
+      "lesson_content": {
+        "arabic": {
+          "title": "أَبُوْكَ الشَّفِيْقُ",
+          "paragraphs": [
+            "إِعْلَمْ اَيُّهَا الْوَلَدُ النَّجِيْبُ: أَنَّ أَبَاكَ يُحِبُّكَ أَيْضًا مِثْلَ أَمِّكَ، فَهُوَ يُخْرَجُ كُلَّ يَوْمٍ مِنَ الْبَيْتِ صَابِرًا عَلَى التَّعَبِ وَالْحَرِّ، فَيَذْهَبُ إِلَى الدُّكَّانِ أَوِالسُّوْقِ، لِيُحَصِّلَ مَا لًايُنْفِقُهُ عَلَيْكَ، وَيَشْتَرِى لَكَ الْمَلَابِسَ وَالْأَطْعِمَةَ، وَكُلَّ شَيْءٍ تَحْتَاجُ إِلَيْهِ، وَهُوَ مَعَ ذَالِكَ مَسْرُوْرٌ وَفَرْحَانٌ.",
+            "وَأَبُوْكَ يُحَافِظَ عَلَى صِحَّتِكَ، وَيَحْرُسُكَ مِنْ كُلِّ مَايُؤْذِيْكَ، فَإِذَا مَرِضْتَ فَإِنَّهُ يَحْزَنُ كَثِيْرًا، وَيَدْعُوْلَكَ طَبِيْبًا، وَيَشْتَرِى لَكَ أَدْوِيَةً، وًلًا يَفْرَحُ إِلَّا إِذَاتَعَافَيْتَ، وَهُوَ دَائِمًا يَدْعُو اللهَ لَكَ بِصِّحَةِ وَاسَّلَامَةِ.",
+            "وَأَبُوْكَ يُفَكِّرُ كُلَّ وَقْتٍ، فِي شَأْنِ تَرْبِيَتِكَ، وَلِذَالِكَ يُدْخِلُكَ الْمَدْرَسَةَ، وَيَشْتَرِى لَكَ الْكُتُبَ، وَأَدَوَاتِ التَّعْلِيْمِ، لِتَكُوْنَ فِي الْمُسْتَقْبَلِ رَجُلًا كَامِلًا، فِي عِلْمِهِ وَآدَابِهِ، نَا فِعًا لِنَفْسِهِ وَلِقَوْمِهِ."
+          ]
+        },
+        "indonesian": {
+          "title": "Ayahmu yang Penuh Kasih Sayang",
+          "paragraphs": [
+            "Ketahuilah, wahai anak yang cerdas: Sesungguhnya ayahmu juga mencintaimu seperti ibumu. Setiap hari ia keluar rumah dengan sabar menahan lelah dan panas, pergi ke toko atau pasar untuk mencari rezeki yang akan ia belanjakan untukmu. Ia membelikanmu pakaian, makanan, dan segala sesuatu yang kamu butuhkan. Meskipun demikian, ia tetap bahagia dan gembira.",
+            "Ayahmu menjaga kesehatanmu dan melindungimu dari segala yang membahayakan. Jika engkau sakit, ia akan sangat bersedih. Ia akan memanggilkan dokter untukmu, membelikanmu obat-obatan, dan tidak akan bahagia kecuali jika engkau telah pulih. Ia selalu mendoakanmu agar senantiasa sehat dan selamat.",
+            "Ayahmu senantiasa memikirkan pendidikanmu. Oleh karena itu, ia menyekolahkanmu, membelikanmu buku-buku, dan alat-alat belajar agar di masa depan engkau menjadi seorang yang berilmu dan beradab sempurna, serta bermanfaat bagi dirimu sendiri dan kaummu."
+          ]
+        }
+      }
+    },
+    {
+      "id": 16,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ الْوَلَدِ مَعَ أَبِيْهِ",
+          "paragraphs": [
+            "أَيُّهَاالْوَلَدُ الْمَحْبُوبُ: يَلْزَمُكَ أَنْ تَتَأَدَّبَ مَعَ أَبِيْكَ كَمَا تَتَأَدَّبَ مَعَ أُمِّكَ، وَأَنْ تَمْتَثِلَ أَوَامِرَهُ، وَتَسْمَعَ نَصَائِحَهُ لِأَنَّهُ لَايَأْمُرُكَ إِلَّابِشَيْءٍ يَنْفَعُكَ، وَلَا يَنْهَاكَ إِلَّا عَنْ شَيْءٍ يَضُرُّكَ.",
+            "وَأَنْ تَطْلُبَ دَائِمًا رِضَاهُ: بِأَنْ تُحَاِفظَ عَلَى كُتُبِكَ وَمَلَابِسِكَ، وَجَمِيْعِ أَدَوَاتِكَ، وَتُرَتِّبَهَافِي مَوْضِعِهَا، وَلَا تُضَيِّعَ شَيْئًامِنْهَا، وَأَنْ تَجْتَهِدَ فِي مُطَالَعَةِ دُرُوْسِكَ، وَتَعْمَلَ فِي الْمَنْزِلِ وَخَارِجِهِ، كُلَّ شَيْءٍ يُفَرِّحُ قَلْبَهُ، وَأَنْ لَا تُكَلِّفَ أَبَاكَ أَنْ يَشْتَرِيَ لَكَ شَيْئًا مِنَ الْأَشْيَاءِ، وَلَا تُؤْذِيَ أَحَدًا مِنْ إِخْوَانِكَ وَأَخْوَاتِكَ.",
+            "فَإِذَا أَرْضَيْتَ وَالِدَيْكَ، رَضِيَ عَنْكَ رَبُّكَ، فَعِشْتَ سَعِيْدًا فِي الدُّنْيَا وَالْآخِرَةِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang anak laki-laki terhadap ayahnya",
+          "paragraphs": [
+            "Wahai anak yang tercinta, wajib bagimu untuk beradab kepada ayahmu sebagaimana engkau beradab kepada ibumu. Patuhilah perintah-perintahnya dan dengarkanlah nasihat-nasihatnya, karena sesungguhnya ayahmu tidak akan memerintahkanmu kecuali pada sesuatu yang bermanfaat bagimu, dan tidak akan melarangmu kecuali dari sesuatu yang membahayakanmu.",
+            "Wajib pula bagimu untuk senantiasa mencari rida ayahmu, yaitu dengan menjaga buku-bukumu, pakaian-pakaianmu, dan semua perlengkapanmu, serta merapikannya di tempatnya. Jangan sampai menyia-nyiakan sedikit pun dari barang-barang itu. Dan juga, engkau harus bersungguh-sungguh dalam menelaah pelajaranmu, serta melakukan segala hal di dalam maupun di luar rumah yang dapat menyenangkan hatinya. Janganlah membebani ayahmu untuk membelikanmu ini dan itu, dan jangan menyakiti seorang pun dari saudara-saudari lelakimu maupun perempuanmu.",
+            "Maka, jika engkau telah membuat kedua orang tuamu rida, niscaya Tuhanmu pun akan rida kepadamu, dan engkau akan hidup bahagia di dunia dan akhirat."
+          ]
+        }
+      }
+    },
+    {
+      "id": 17,
+      "lesson_content": {
+        "arabic": {
+          "title": "رَحْمَةُ الْأَبِ",
+          "paragraphs": [
+            "كَانَ لِرَجُلٍ وَلَدٌ عَنُوْدُ، وَكَمْ مَرَّةٍ مَنَعَهُ أَبُوْهُ مِنْ إِيْذَاءِ الْحَيَوَانِ، وَطُلُوْعِ الْأَشْجَارِ، وَلَكِنْ لَمْ يَسْمَعْ كَلَامَهُ.",
+            "وَذَاتَ يَوْمٍ ضَرَبَ قِطًّا، فَعَضَّهُ الْقِطُّ فِي رِجْلِهِ حَتَّى جَرَحَهَا، فَتَوَجَّعَ شَدِيْدًا، فَلَمْ يَسْتَطِعْ أَنْ يَنَامَ، أَوْ يَأْكُلَ، مِنْ شِدَّةِ الْوَجَعِ،",
+            "فَدَعَالَهُ أَبُوْهُ طَبِيْبًا، وَخَسِرَ عَلَيْهِ كَثِيْرًا: لِأُجْرَةِ الطَّبِيْبِ، وَثَمَنِ الْأَدْوِيَةِ، وَلَكِنْ أَبُوْهُ لَمْ يُبَالِ بِذَالِكَ، لِأَنَّهُ يُحِبُّ أَنْ يَشْتَفِيَ وَلَدُهُ سَرِيْعًا.",
+            "وَبَعْدَ مُدَّةٍ تَعَافَى الْوَلَدُ، فَتَابَ مِنْ عَادَتِهِ الْقَبِيْحَةِ، وَعَاهَدَ أَبَاهُ، عَلَى أَنْ يَعْمَلَ دَائِمًا بِنَصَائِحِهِ، وَلَايُعَانِدَهُ أَبَدًا، حَتَّى يَسْلَمَ مِنَ الْأَذَى، وَيَعِيْشَ فِي رَاحَةٍ"
+          ]
+        },
+        "indonesian": {
+          "title": "Kasih sayang seorang ayah",
+          "paragraphs": [
+            "Dahulu ada seorang laki-laki yang memiliki anak pembangkang. Berulang kali ayahnya melarangnya menyakiti hewan dan memanjat pohon, tetapi ia tidak pernah mendengarkan perkataannya.",
+            "Suatu hari, ia memukul seekor kucing. Kucing itu pun menggigit kakinya hingga terluka parah. Anak itu merasakan sakit yang luar biasa, sehingga ia tidak bisa tidur atau makan karena saking sakitnya.",
+            "Lalu ayahnya memanggilkan dokter untuknya. Ayahnya mengeluarkan banyak biaya untuk upah dokter dan harga obat-obatan. Namun, ayahnya tidak memedulikan hal itu, karena ia sangat ingin anaknya segera sembuh.",
+            "Setelah beberapa waktu, anak itu pulih. Ia pun bertobat dari kebiasaan buruknya dan berjanji kepada ayahnya untuk senantiasa mengamalkan nasihat-nasihatnya dan tidak akan membangkang lagi selamanya, agar ia selamat dari bahaya dan hidup dalam kenyamanan."
+          ]
+        }
+      }
+    },
+    {
+      "id": 18,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ الْوَلَدِ مَعَ اِخْوَتِهِ",
+          "paragraphs": [
+            "إِخْوَتُكَ وَأَخَوَاتُكَ أَقْرَبُ النَّاسِ إِلَيْكَ، بَعْدَ وَالِدَيْكَ، فَإِذَا أَرَدْتَ أَنْ يَفْرَحَ مِنْكَ أَبُوْكَ وَأُمُكَ، فَتَأَدَّبْ مَعَهُمْ: بِأَنْ تَحَتَرِمَ أَخَاكَ الْكَبِيْرَ،وَأُخْتَكَ الْكَبِيْرَةَ، وَتُحِبَّهُمَا مَحَبَّةً صَادِقَةً، وَتَتَّبِعَ نَصَائِحَهُمَا، وَأَنْ تَرْحَمَ أَخَاكَ الصَّغِيْرَ، وَأُخْتَكَ الصَّغِيْرَةَ، وَتُحِبَّهُمَا أَيْضًا مَحَبَّةً صَحِيْحَةً، وَأَنْ لَاتُؤْذِيَهُمَا بِالضَّرْبِ أَوِالشَّتْمِ، وَلَا تَتَقَاطَعَ مَعَهُمَا، أَوْ تُغَيِّرَلُعْبَتَهُمَا، لِأَنْ ذَالِكَ يُغْضِبُ وَالِدَيْكَ.",
+            "وَكَذَالِكَ لَا تَتَنَازَعْ مَعَ أَخِيْكَ أَوْ أُخْتِكَ، عَلَى دُخُوْلِ حَمَامٍ، أَوْ عَلَى لُعْبَةٍ، أَوْ عَلَى الْجُلُوْسِ عَلَى الْكُرْسِيِّ، اَوعَلَى شَيْءٍ آخَرَ، وَعَلَيْكَ أَنْ تَصْبِرَ وَتَتَنَازَلَ دَائِمًا، فَهَذَا مِمَّا يُفَرِّحُ وَالِدَيْكَ، وَيُسَبِّبُ رِضَاهُمَا.",
+            "سَامِحْ أَخَاكَ إِذَاغَلِطَ، وَأَظْهِرْ لَهُ غَلَطَهُ بِلَطَافَةٍ، لِئَلَّايَغْلَطَ مَرَّةً أُخْرَى، وَاْبْتَعِدْ عَنْ كَثْرَةِ الْمِزَاحِ، لِأَنَّهَا تُسَبِّبُ الْحِقْدَ وَالْمُخَاصَمَةَ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang anak lelaki bersama saudara-saudaranya",
+          "paragraphs": [
+            "Saudara laki-laki dan perempuanmu adalah orang terdekat bagimu setelah kedua orang tuamu. Jadi, jika kamu ingin ayah dan ibumu senang kepadamu, beradablah kepada mereka. Caranya adalah dengan menghormati kakak laki-lakimu dan kakak perempuanmu, mencintai mereka dengan cinta yang tulus, dan mengikuti nasihat-nasihat mereka. Sayangilah adik laki-lakimu dan adik perempuanmu, cintai juga mereka dengan cinta yang benar. Jangan menyakiti mereka dengan pukulan atau cacian, jangan saling memutuskan hubungan dengan mereka, atau merusak permainan mereka, karena hal itu akan membuat kedua orang tuamu murka.",
+            "Demikian pula, janganlah kamu bertengkar dengan saudara laki-laki atau perempuanmu mengenai giliran masuk kamar mandi, atau tentang mainan, atau tentang tempat duduk di kursi, atau hal lainnya. Wajib bagimu untuk selalu bersabar dan mengalah, karena ini adalah hal yang dapat menyenangkan hati kedua orang tuamu dan menyebabkan rida mereka.",
+            "Maafkanlah saudaramu jika ia berbuat salah, dan tunjukkan kesalahannya dengan lemah lembut agar ia tidak mengulangi kesalahan itu lagi. Jauhilah banyak bercanda, karena candaan yang berlebihan dapat menimbulkan rasa dengki dan permusuhan."
+          ]
+        }
+      }
+    },
+    {
+      "id": 19,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْأَخَوَانِ الْمُتَحَابَّانِ",
+          "paragraphs": [
+            "عَلِيٌّ وَأَحْمَدُ أَخَوَانِ مُتَحَابَّانِ: يَذْهَبَانِ إِلَى الْمَدْرَسَةِ مَعًا، وَيَرْجِعَانِ مِنْهَا سَوِيًّا، وَيَتَعَاوَنَانِ عَلَى أَدَاءِ وَاجِبَاتِهِمَا: فَيُطَالِعَانِ دُرُوْسَهُمَا فِى الْمَنْزِلِ وَ فِى الْمَدْرَسَةِ، وَيَلْعَبَانِ وَقْتَ اللَّعَبِ مَعًا.",
+            "وَفِي يَوْمٍ مِنَ الْأَيَّامِ اْشْتَرَى عَلِيُّ نُسْخَتَيْنِ، مِنْ كِتَابِ: (أْلْأَخْلَاقِ لِلْبَنِيْنَ)، فَسَأَلَ أَبَاهُ قَائِلًا: يَا أَبِى، تَفَضَّلْ أَخْبِرْنِي: أَيْنَ أَخِي أَحْمَدُ؟ فَإِنِّى أُرِيْدُ أَنْ أُهْدِيَ إِلَيْهِ نُسْخَةً مِنْ هَذِا الْكِتَابِ، فَفَرِحَ أَبُوهُ جِدَّا، وَأَخْبَرَهُ بِأَنْ أَخَاهُ فِي حُجْرَةِ الْمُطَالَعَةِ.",
+            "فَذَهَبَ عَلِيٌّ مُسْرِعًا إِلَى الْحُجْرَةِ، فَإِذَا أَخُوْهُ يُرَاجِعُ دُرُوْسَهُ، فَسَلَّمَ عَلَيْهِ، وَنَاوَلَهُ النُّسْخَةَ، وَهُوَ مُبْتَسِمٌ مَسْرُوْرٌ، فَتَقَبَّلَهَا أَحْمَدُ، شَاكِرًا لِأَخِيْهِ، عَلَى هَدِيَّتِهِ الثَّمِيْنَةِ.",
+            "ثُمَّ قَدَّمَ أَحْمَدُ لِأَخِيْهِ عَلِيٍّ، صُنْدُوْقًا لَطِيْفًا لِحِفْظِ الْمَرَاسِمِ، وَهُوَ يَقُوْلُ: وَهَذِهِ هَدِيَّتِى لَكَ، يَاأَخِى الْعَزِيْزَ، فَسُرَّعَلِيٌّ كَثِيْرًا مِنْ أَخِيْهِ، وَفَرِحَ بِالصُّنْدُوْقِ، وَشَكَرَهُ عَلَيْهِ.",
+            "وَلَمَّا سَمِعَ الْأُسْتَاذُ بِقِصَّتِهِمَا، فَرِحَ مِنْهُمَا غَايَةَ الْفَرَحَ، وَمَدَحَهُمَا أَمَامَ التَّلَامِيْذِ، وَقَالَ: أُنْظُرُوْا أَيُّهَاالْأَوْلَادُ إِلَى عَلِيٍّ وَأَحْمَدَ، مَاأَسْعَدَهُمَا، فَكُوْنُوْا جَمِيْعًا مِثْلَ هَذَيْنِ الْأَخَوَيْنِ، لِتَعِيْشُوْا فِي سَعَادَةٍ وَهَنَاءٍ."
+          ]
+        },
+        "indonesian": {
+          "title": "Dua Saudara yang Saling Mencintai",
+          "paragraphs": [
+            "Ali dan Ahmad adalah dua bersaudara yang saling mencintai. Mereka pergi ke sekolah bersama, pulang pun bersama, dan saling membantu dalam mengerjakan tugas-tugas. Mereka belajar pelajaran mereka di rumah dan di sekolah, serta bermain bersama saat waktu bermain.",
+            "Pada suatu hari, Ali membeli dua eksemplar kitab *Al-Akhlaq Lil Banin*. Ia bertanya kepada ayahnya, 'Ayah, tolong beritahu aku: Di mana saudaraku Ahmad? Aku ingin memberinya satu eksemplar kitab ini.' Ayahnya sangat gembira mendengar itu, lalu memberitahunya bahwa saudaranya berada di ruang belajar.",
+            "Ali pun segera pergi ke ruangan itu. Ia mendapati saudaranya sedang mengulang pelajaran. Ia mengucapkan salam kepadanya dan menyerahkan kitab itu sambil tersenyum gembira. Ahmad menerimanya, berterima kasih kepada saudaranya atas hadiah yang berharga itu.",
+            "Kemudian, Ahmad juga memberikan kepada Ali, saudaranya, sebuah kotak kecil yang indah untuk menyimpan alat tulis, sambil berkata, 'Ini adalah hadiahku untukmu, wahai saudaraku yang tercinta.' Ali sangat senang dengan hadiah dari saudaranya itu, merasa gembira dengan kotak tersebut, dan berterima kasih kepadanya.",
+            "Ketika sang guru mendengar cerita mereka, ia sangat bahagia dan memuji mereka di hadapan para murid. Beliau berkata, 'Lihatlah, wahai anak-anak, kepada Ali dan Ahmad! Betapa beruntungnya mereka berdua. Jadilah kalian semua seperti dua bersaudara ini, agar kalian hidup dalam kebahagiaan dan ketenteraman.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": 20,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ الْوَلَدِ مَعَ اَقَارِبِهِ",
+          "paragraphs": [
+            "أَلْوَلَدُ الْعَاقِلُ الْمَحْبُوْبُ يَحْتَرِمُ أَقَارِبَهُ: مِثْلَ الْجَدِّ وَالْجَدَّةِ، وَالْعَمِّ وَالْعَمَّةِ، وَالْخَالِ وَالْخَالَةِ، وَيُحِبُّهُمْ كَثِيْرًا، لِأَنَّهُمْ يُحِبُّوْنَهُ أَيْضًا، وَيُحِبُّوْنَ وَالِدَيْهِ.",
+            "وَيُرْضِى أَقَارِبَهُ دَائِمًا: بِأَنْ يَمْتَثِلَ أَوَامِرَهُمْ، وَيَزُوْرَهُمْ وَقْتًا بَعْدَ وَقْتٍ، خُصُوْصًا فِي الْأَعْيَادِ، أَوْإِذَا مَرِضَ أَحَدَهُمْ، أَوْ وُلِدَلَهُ مَوْلُوْدٌ، أَوْقَدِمَ مِنْ سَفَرٍ، وَأَنْ يَفْرَحَ إِذَا فَرِحُوْا، وَيَحْزَنَ إِذَا حَزِنُوْا وَلَايُسِئُى الْأَدَبَ، إِلَى أَحَدٍ مِنْهُمْ، لِأَنَّ ذَالِكَ يُغْضِبُ اللهَ، وَيُغْضِبُ وَالِدَيْهِ وَأَقَارِبَهُ.",
+            "يُحِبُّ الْوَلَدُ الْعَاقِلُ أَيْضًا: أَوْلَادَ أَقَارِبِهِ، فَيَلْعَبُ مَعَهُمْ، وَيَسْأَلُ عَنْهُمْ إِذَا لَمْ يَرَهُمْ، وَلَا يَسْتَرِيْحُ فِي وَقْتِ النُّزْهَةِ، إِلَّا إِذَا تَنَزَّهَ مَعَهُمْ، وَيُحِبُّ أَنْ يُسَاعِدَهُمْ إِذَا اْحْتَاجُوْا إِلَى شَيْءٍ، وَلِا يُخَاصِمَهُمْ اَوْيُقَاطِعَهُمْ، أَوْيُعَبِّسَ فِي وُجُوْهِهِمْ، بَلْ يَبْتَسِمَ وَيَفْرَحَ إِذَا صَادَفَهُمْ، وَيَتَكَلَّمَ مَعَهُمْ بِكَلَامٍ جَمِيْلٍ.",
+            "أَلْوَلَدُ الَّذِيْ يُحْسِنُ إِلَى أَقَارِبِهِ، يَعِيْشُ مُسْتَرِيْحًا، وَيُكَثِّرُ اللهُ رِزْقَهُ، وَيُطَوِّلُ عُمْرَهُ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab anak laki-laki terhadap kerabatnya",
+          "paragraphs": [
+            "Seorang anak yang berakal dan dicintai selalu menghormati kerabat-kerabatnya, seperti kakek, nenek, paman (dari pihak ayah), bibi (dari pihak ayah), paman (dari pihak ibu), dan bibi (dari pihak ibu). Ia sangat mencintai mereka, karena sesungguhnya mereka juga mencintainya dan mencintai kedua orang tuanya.",
+            "Ia senantiasa berusaha menyenangkan hati kerabat-kerabatnya, yaitu dengan mematuhi perintah-perintah mereka, mengunjungi mereka sesekali, terutama pada hari raya, atau jika salah satu dari mereka sakit, atau jika ada anggota keluarga yang baru melahirkan, atau jika ada yang baru pulang dari bepergian. Ia ikut berbahagia jika mereka bahagia, dan bersedih jika mereka bersedih. Ia tidak akan berbuat kurang ajar kepada salah seorang dari mereka, karena hal itu akan membuat Allah murka, serta membuat orang tua dan kerabatnya juga murka.",
+            "Anak yang berakal juga mencintai anak-anak dari kerabatnya. Ia bermain bersama mereka, menanyakan kabar mereka jika tidak melihatnya, dan tidak merasa nyaman saat berekreasi kecuali jika ia berekreasi bersama mereka. Ia suka membantu mereka jika mereka membutuhkan sesuatu, dan tidak bertengkar atau memutuskan hubungan dengan mereka, atau bermasam muka di hadapan mereka. Justru, ia tersenyum dan bergembira saat bertemu mereka, serta berbicara dengan mereka menggunakan perkataan yang indah.",
+            "Anak yang berbuat baik kepada kerabatnya akan hidup dengan tenang, Allah akan memperbanyak rezekinya, dan memanjangkan umurnya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 21,
+      "lesson_content": {
+        "arabic": {
+          "title": "مُصْطَفَي وَ قَرِيبُهُ يَحْيَي",
+          "paragraphs": [
+            "مُصْطَفَى وَلَدٌ غَنِيٌّ، لَكِنَّهُ مُتَوَاضِعٌ أَدِيْبٌ، لَايَتَكَبَّرُعَلَى أَحَدٍ، وَيُحِبُّ أًنْ يُسَاعِدَ الْمُحْتَاجِيْنَ، وَلَا سَيَّمَا إِذَا كَانُوْا مَنْ أَقَارِبِهِ.",
+            "وَذَاتَ يَوْمٍ، رَآى مُصْطَفَى قَرِيْبَهُ يَحْيَى، وَهُوَاْبْنُ عَمِّهِ، يَلْبَسُ ثَوْبًا مُمَزَّقًا، فَرَقَّ لَهُ قَلْبُهُ، وَذَهَبَ مُسْرِعًا إِلَى مَنْزِلِهِ، وَأَخَذَ مِنْهُ ثَوْبًا جَدِيْدًا، فَسَلَّمَهُ إِلَى يَدِهِ قَائِلًا: تَفَضَّلْ يَااْبْنَ عَمِّى الْمَحْبُوْبَ، إِقَبَلْ مِنِّى هَذِهِ الْهَدِيَّةَ، فَقَبِلَهَا وَعَيْنَاهُ مَمْلُوْءَتَانِ بِالدُّمُوْعِ، فَرَحًا وَسُرُوْرًا، وَشَكَرَهُ كَثِيْرًا عَلَى إِحْسَانِهِ.",
+            "لَمَّا عَلِمَ وَالِدُ مُصْطَفَى، بِهَذِهِ الْقِصَّةِ، سُرَّمِنْهُ غَايَةَ اْلسُّرُوْرِ، عَلَى مُسَاعَدَةِ لِقَرِيْبِهِ، وَمَدَحَهُ عَلَى حُسْنِ أَخْلَاقِهِ."
+          ]
+        },
+        "indonesian": {
+          "title": "Mustofa dan kerabatnya yang bernama Yahya",
+          "paragraphs": [
+            "Mustofa adalah anak yang kaya, tetapi ia rendah hati dan beradab. Ia tidak sombong kepada siapa pun, dan ia suka menolong orang-orang yang membutuhkan, terutama jika mereka adalah kerabatnya.",
+            "Suatu hari, Mustofa melihat kerabatnya, Yahya — yang merupakan sepupunya — memakai pakaian yang robek-robek. Hatinya terenyuh, lalu ia segera pergi ke rumahnya dan mengambil pakaian baru. Ia menyerahkannya kepada Yahya seraya berkata, 'Silakan, wahai sepupuku yang tercinta, terimalah hadiah dariku ini.' Yahya menerimanya dengan mata yang penuh air mata kebahagiaan dan kegembiraan, lalu ia berterima kasih banyak atas kebaikan Mustofa.",
+            "Ketika ayah Mustofa mengetahui kisah ini, ia merasa sangat gembira atas bantuan Mustofa kepada kerabatnya, dan ia memuji Mustofa atas akhlaknya yang baik."
+          ]
+        }
+      }
+    },
+    {
+      "id": 22,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ الْوَلَدِ مَعَ خَادِمِهِ",
+          "paragraphs": [
+            "خَادِمُكَ هُوَالَّذِى يَشْتَغِلُ فِي بَيْتِكَ: يُرَتِّبُ أَثَاثَهُ، وَيُنَظِّفُ سَاحَتَهُ، وَيَكْنُسُ قَاعَتَهُ، وَيَأْمُرُهُ أَبُوْكَ فِي حَاجَاتِهِ، وَكَذَالِكَ خَادِمَتُكَ، فَهِيَ الَّتِى تَطْبَخُ طَعَامَكَ، وَتَغْسِلُ مَلَابِسَكَ، وَتُسَاعِدُ أُمَّكَ فِي أَشْغَالِهَا،وَتَذْهَبُ كُلَّ يَوْمٍ إِلَى السُّوْقِ.",
+            "فَيَجِبُ عَلَيْكَ أَنْ تَسْتَعْمِلَ اْلْأَخْلَاقَ الْحَسَنَةَ مَعَ الْخَادِمِ وَالْخَادِمَةِ، فَإِذَا أَمَرْتَ أَحَدَهُمَا بِشَيْءٍ، فَكَلِّمْهُ بِكَلَامٍ لَطِيْفٍ، وَلَا تُؤْذِهِ أَوْتَتَكَبَّرْعَلَيِهِ، وَإِذَا غَلِطَ فَلَا تَنْهَرْهُ، بَلْ نَبِّهْهُ عَلَى غَلَطِهِ بِرِفْقٍ، وَسَامِحْهُ، وَإِذَا غَلِطْتَ فَقُلِ الْحَقِيْقَةَ، وَلَا تَنْسُبِ الْغَلَطَ إِلَى الْخَادِمِ.",
+            "وَإِذَا دَعَوْتَهُ فَلَمْ يُجِبْكَ حَالًا، فَلَا تَغْضَبْ عَلَيْهِ لِأَنَّهُ رُبَّمَا لَمْ يَسْمَعْ صَوْتَكَ، وَكَذَالِكَ إِذَا أَمَرْتَهُ بِشَيْءٍ فَأَبْطَأَ، فَلَا تَعْجَلْ فِي عِتَابِهِ، فَرُبَّمَا هُوَ مَعْذُوْرٌ، وَاْحْذَرْ أَنْ تَضْرِبَهُ، أَوْ تَشْتِمَهُ، أَوْ تَبْصُقَ فِي وَجْهِهِ، فَلَا يَعْمَلُ ذَالِكَ إِلَّاالْوَلَدُ السَّيِّءُالْأَخْلَاقِ، الَّذِيْ يُبْغِضُهُ جَمِيْعُ النَّاسِ.",
+            "لَاتَجْلِسْ مَعِ الْخِادِمِ، وَلَا تُكَلِّمْهُ إِلَّا بِقَدْرِ الْحَاجَةِ، وَلَا تَمْزَحْ مَعَهُ، كَيْلَا يَتَجَرَّأَ عَلَيْكَ، أَوْ تَسْمَعَ مِنْهُ كَلَامًا غَيْرَ لَائِقٍ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang anak kepada pembantunya",
+          "paragraphs": [
+            "Pembantumu adalah orang yang bekerja di rumahmu: ia merapikan perabotan, membersihkan halaman, dan menyapu lantainya. Ayahmu juga menyuruhnya untuk berbagai keperluan. Begitu pula pembantu perempuanmu, ia yang memasak makananmu, mencuci pakaianmu, membantu ibumu dalam pekerjaannya, dan pergi ke pasar setiap hari.",
+            "Maka wajib bagimu untuk menggunakan akhlak yang baik kepada pembantu laki-laki maupun perempuan. Jika kamu memerintah salah satu dari mereka, bicaralah dengan perkataan yang lembut. Jangan menyakitinya atau bersikap sombong kepadanya. Jika ia berbuat salah, jangan membentaknya, tetapi ingatkan kesalahannya dengan lemah lembut dan maafkanlah ia. Jika kamu yang berbuat salah, katakanlah kebenaran dan jangan menyalahkan pembantumu.",
+            "Jika kamu memanggilnya dan ia tidak segera menjawab, jangan marah kepadanya karena mungkin ia tidak mendengar suaramu. Demikian pula jika kamu memerintahkannya sesuatu dan ia lambat, jangan terburu-buru menyalahkannya, karena mungkin ia punya uzur. Dan berhati-hatilah agar tidak memukulnya, mencacinya, atau meludahi wajahnya, karena perbuatan itu hanya dilakukan oleh anak yang berakhlak buruk, yang dibenci oleh semua orang.",
+            "Janganlah kamu duduk bersama pembantu, dan jangan berbicara dengannya kecuali sekadar keperluan. Jangan pula bercanda dengannya, agar ia tidak berani (bersikap kurang ajar) kepadamu, atau kamu mendengar perkataan yang tidak pantas darinya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 23,
+      "lesson_content": {
+        "arabic": {
+          "title": "اَلْوَلَدُ الْمُؤْذِى",
+          "paragraphs": [
+            "كَانَ لِأَحَدِ اْلْأَغْنِيَاءِ وَلَدٌ شَرِسُ الْأَخْلَاقِ، فَخُوْرٌ بِنَفْسِهِ، مُوْلَعٌ بِإِيذَاءِ غَيْرِهِ، وَلَا سِيَّمَا الْخَدَمُ.",
+            "وَكَمْ نَصَحَهُ أَبُوْهُ، وَلَكِنَّهُ لَمْ يَسْمَعْ نَصِيْحَتَهُ، وَذَاتَ مَرَّةٍ قَالَ لَهُ أَبُوْهُ: اْسْمَعْ يَا بُنَيَّ: كَمَا لَا تُيِبُّ أَنْ يُؤْذِيَكَ أَحَدٌ، فَلَا تُؤْذِ غَيْرَكَ، لِأَنَّ الْإِيذَاءَ قَبِيْحٌ جِدًّا، وَيَدُلُّ عَلَى سُوْءِ التَّرْبِيَةِ، وَاْحْذَرْ كُلَّ الْحَذَرِ أَنْ تُهِيْنُ الْأَخْدَامَ، وَتَتَكَبَّرَ عَلَيْهِمْ، فَهُمْ بَشَرٌ مِثْلُنَا، وَيَشْعُرُوْنَ مِثْلَ شُعُوْرِنَا.",
+            "لَمَّا سَمِعَ الْوَلَدُ نَصِيْحَةَ أَبِيْهِ، فِي هَذِهِ الْمَرَّةِ، تَأَثَّرَبَهَا كَثِيْرًا، وَتَابَ مِنْ عَادَتِهِ الْقَبِيْحَةِ، وَصَارَطَيِّبَ الْأَخْلَاقِ: يَرْحَمُ الْأَخْدَامَ وَلَا يُؤْذِيْهِمْ."
+          ]
+        },
+        "indonesian": {
+          "title": "Anak yang suka menyakiti orang lain",
+          "paragraphs": [
+            "Dahulu, ada seorang hartawan yang memiliki anak berakhlak buruk. Ia sombong, gemar menyakiti orang lain, terutama para pembantu.",
+            "Sudah berkali-kali ayahnya menasihatinya, tetapi ia tidak pernah mendengarkan nasihat itu. Suatu ketika, ayahnya berkata kepadanya: 'Dengarlah, anakku sayang: Sebagaimana engkau tidak suka disakiti orang lain, maka janganlah engkau menyakiti orang lain. Karena menyakiti itu sangatlah buruk dan menunjukkan buruknya didikan. Berhati-hatilah dengan sepenuh hati agar tidak menghina pembantu dan bersikap sombong kepada mereka, karena mereka adalah manusia seperti kita, dan mereka memiliki perasaan seperti perasaan kita.'",
+            "Ketika anak itu mendengar nasihat ayahnya kali ini, ia sangat terpengaruh. Kemudian ia bertobat dari kebiasaan buruknya dan menjadi anak yang berakhlak baik: ia menyayangi para pembantu dan tidak menyakiti mereka."
+          ]
+        }
+      }
+    },
+    {
+      "id": 24,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَبُ الْوَلَدِ مَعَ جِيْرَانِهِ",
+          "paragraphs": [
+            "أَبُوْكَ وَأُمُّكَ يُحِبَّانَ جِيْرَانَهُمَا، وَيُحِبَّانِ مِنْكَ أَنْ تُحِبَّهُمْ أَيْضًا: لِأَنَّهُمْ يُسَاعِدُوْنَ وَالِدَيْكَ وَقْتَ الْحَاجَةِ، فَأُمُّكَ قَدْ تَسْتَعِيْرُ مِنْهُمْ بَعْدَ الْأَدَوَاتِ وَالْأَوَانِى، وَهُمْ يُعَيْرُوَنَهَا ذَالِكَ، بِكُلِّ فَرَحٍ وَسُرُوْرٍ، وَإِذَا مَرِضَ أَحَدٌ فِي بَيْتِكَ، فَإِنَّ جِيْرَانَكَ يَأْتُوْنَ لِزِيَارَتِهِ، وَيَدْعُوْنَ لَهُ بِالْعَافِيَةِ.",
+            "فَتَأَدَّبْ أَيُّهَا الْوَلَدُ مَعَ جِيْرَانَكَ، وَفَرِّحْ قُلُوْبَهُمْ: بِأَنْ تُحِبَّ أَوْلَادَهُمْ، وَتَبْتَسِمَ أَمَامَ وُجُوْهِهِمْ، وَتَلْعَبَ مَعَهُمْ بِأَدَبٍ، وَاْحْذَرْ أَنْ تَتَخَاصَمَ مَعَهُمْ، أَوْتَأْخُذَ لُعَبَهُمْ بِغَيْرِ إِذْنٍ مِنْهُمْ، أَوْ تَفْتَخِرَ عَلَيْهِمْ بِمَلَابِسِكَ أَوْدَرَاهِمِكَ، وَإِذَاأَعْطَتْكَ أُمُّكَ طَعَامًا أَوْفَاكِهَةً فَلَاتَأْكُلْ ذَالِكَ وَحْدَكَ، وَاَوْلَادُ جِيْرَانِكَ يَنْظُرُوْنَ إِلَيْكَ.",
+            "وَاْحْذَرْ أَيْضًا أَنْ تَسْتَهْزِئَ بِجِيْرَانِكَ، أَوْتَرْفَعَ صَوْتَكَ وَقْتَ نَوْمِهِمْ، أَوْتَرْمِيَ بُيُوْتَهُمْ، أَوْتُوَسِّخَ جُدْرَانَهَا وَسَاحَاتِهَا، أَوْتَنْظُرَ إِلَيْهِمْ مِنْ ثُقُوْبِ الْجُدْرَانِ وَالْأَبْوَابِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang anak kepada tetangganya",
+          "paragraphs": [
+            "Ayah dan ibumu mencintai tetangga mereka, dan mereka juga ingin kamu mencintai mereka. Ini karena para tetangga sering membantu orang tuamu saat dibutuhkan. Ibumu mungkin meminjam beberapa peralatan rumah tangga atau wadah dari mereka, dan mereka meminjamkannya dengan penuh sukacita. Jika ada anggota keluargamu yang sakit, tetanggamu akan datang menjenguk dan mendoakannya agar lekas sembuh.",
+            "Maka, wahai anakku, beradablah kepada tetanggamu dan bahagiakanlah hati mereka. Cintailah anak-anak mereka, tersenyumlah di hadapan mereka, dan bermainlah bersama mereka dengan sopan. Berhati-hatilah agar tidak bertengkar dengan mereka, atau mengambil mainan mereka tanpa izin, atau membanggakan pakaian atau uangmu di hadapan mereka. Dan jika ibumu memberimu makanan atau buah, jangan makan sendirian sementara anak-anak tetanggamu melihatmu.",
+            "Berhati-hatilah juga agar tidak mengejek tetanggamu, atau mengeraskan suaramu (berisik) saat mereka tidur, atau melempar rumah mereka (dengan batu misalnya), atau mengotori dinding dan halaman mereka, atau mengintip mereka dari lubang di dinding atau pintu."
+          ]
+        }
+      }
+    },
+    {
+      "id": 25,
+      "lesson_content": {
+        "arabic": {
+          "title": "حَامِدٌ وَ جِيْرَانُهُ",
+          "paragraphs": [
+            "حَامِدُ وَلَدٌ طَيِّبُ الْقَلْبِ، حَسَنُ اْلْآدَابِ، مَحْبُوْبٌؤعِنْدَ أُسْرَتِهِ وَجِيْرَانِهِ، لِأَنَّهُ مَا يُؤْذِى أَوْلَادَهُمْ وَلَا يَتَخَاصَمُ أَوْيَتَشَاتَمُ مَعَهُمْ، وَلَا يُقَاطِعُ أَحَدًا مَنْهُمْ.",
+            "وَكَانَ يَتَعَلَّمُ مَعَ أَوْلَادِ جِيْرَانِهِ، فِي مَدْرَسَةٍ وَاحِدَةٍ، وَكُلَّ يَوْمٍ يَمْشِى مَعَهُمْ إِذَا أَرَادَ أَنْ يَسِيْرَ إِلَى الْمَدْرَسَةِ، وَكَذَالِكَ إِذَا أَرَادَ أَنْ يَرْجِعَ، وَفِي وَقْتِ اللَّعِبِ يَلْعَبُ مَعَهُمْ،",
+            "وَكَانَ يُحِبَّ أَنْ يُسَاعِدَ الْمُحْتَاجِيْنَ مِنْهُمْ، وَإِذَا لَمْ يَرَ أَحَدَهُمْ، سَأَلَ عَنْهُ، وَإِذَا مَرِضَ زَارَهُ فِي بَيْتِهِ.",
+            "وَهَكَذَا عَاشَ حَامِدٌ، مَعَ أَوْلَادِ جِيْرَانِهِ فِي أُنْسٍ وَسُرُوْرٍ، وَاتِّحَادٍ وَتَوَادٍّ، بِحُسْنِ آدَابِهِ، وَطِيْبِ قَلْبِهِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Hamid dan Tetangganya",
+          "paragraphs": [
+            "Hamid adalah anak yang baik hati dan berakhlak mulia. Ia dicintai oleh keluarga dan tetangganya, karena ia tidak pernah menyakiti anak-anak mereka, tidak berkelahi atau mencaci maki mereka, dan tidak memutus hubungan dengan siapa pun di antara mereka.",
+            "Ia juga belajar bersama anak-anak tetangganya di satu sekolah yang sama. Setiap hari, ia berjalan bersama mereka ketika hendak pergi ke sekolah, begitu pula ketika hendak pulang. Saat waktu bermain, ia pun bermain bersama mereka.",
+            "Ia suka membantu mereka yang membutuhkan di antara mereka. Apabila ia tidak melihat salah satu dari mereka, ia akan menanyakannya. Dan jika ada yang sakit, ia akan mengunjunginya di rumahnya.",
+            "Demikianlah Hamid hidup bersama anak-anak tetangganya dalam kehangatan, kebahagiaan, persatuan, dan kasih sayang, berkat akhlaknya yang baik dan hatinya yang mulia."
+          ]
+        }
+      }
+    },
+    {
+      "id": 26,
+      "lesson_content": {
+        "arabic": {
+          "title": "قَبْلَ الذَّهَابِ إِلَى الْمَدْرَسَةِ",
+          "paragraphs": [
+            "يَجِبُ عَلَى التِّلْمِيْذِ أَنْ يُحِبَّ التَّرْتِيْبَ وَالنَّظَافَةَ دَائِمًا: يَقُوْمُ مِنْ نَوْمِهِ كُلَّ صَبَاحٍ مُبَكِّرًا، فًيَغْتَسِلُ بِالصَّابُوْنِ، ثُمَّ يَتَوَضَّأُ وَيُصَلِّى الصُّبْحَ جَمَاعَةً، وَبَعْدَ الصَّلَاةِ يُصَافِحُ وَالِدَيْهِ، ثُمَّ يَلْبَسُ مَلَابِسَ الْمَدْرَسَةِ، نَظِيْفَةً مُرَتَّبَةً، ثُمَّ يَنْظُرُ دُرُوْسَهُ، الَّتِى قَدْ طَالَعَهَا قَبْلَ النَّوْمِ.",
+            "وَبَعْدَ أَنْ يُفْطِرَ، يُرَتِّبُ أَدَوَاتِهِ فِي الْمَحْفَظَةِ، فَيَسْتَأْذِنُ وَالِدَيْهِ، لِلذَّهَابِ إِلَى الْمَدْرَسَةِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Sebelum Berangkat ke Sekolah",
+          "paragraphs": [
+            "Wajib bagi seorang murid untuk senantiasa menyukai kerapian dan kebersihan. Ia bangun tidur setiap pagi lebih awal, lalu mandi menggunakan sabun, kemudian berwudu dan menunaikan salat Subuh berjemaah. Setelah salat, ia bersalaman dengan kedua orang tuanya, kemudian mengenakan seragam sekolah yang bersih dan rapi, lalu meninjau kembali pelajaran-pelajaran yang telah ia pelajari sebelum tidur.",
+            "Setelah sarapan, ia merapikan alat-alat tulisnya di dalam tas, kemudian meminta izin kepada kedua orang tuanya untuk berangkat ke sekolah."
+          ]
+        }
+      }
+    },
+    {
+      "id": 27,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَبُ الْمَشْيِ فِي الطَّرِيْقِ",
+          "paragraphs": [
+            "يَنْبَغِى لِلتِّلْمِيْذِ أَنْ يَمْشِيَ مُسْتَقِيْمًا: لَايَلْتَفِتُ يَمِيْنًا وَلَاشِمَالًا بِغَيْرِ حَاجَةٍ، وَلَا يَتَحَرَّكُ بِحَرَكَةٍ لَاتَلِيْقُ بِهِ، وَلَايُسْرِعُ جِدًّا فِي مَشْيِهِ وَلَايُبْطِئُ، وَلَايَأْكُلُ أَوْيُغَنِّى، أَوْ يَقْرَأُ كِتَابَهُ وَهُوُيَمْشِى.",
+            "وَأَنْ يَبْتَعِدَ عَنِ الْوَحَلِ وَاْلْأَوْسَاخِ، لِكَيْلَا يَسْقُطَ أَوْ يَتَوَسَّخَ ثَوْبُهُ، وَيَبْتَعِدَ أَيْضًا عَنِ الزِّحَامِ، لِكَيْلَا يَصْطَدِمَ بِأَحَدٍ، أَوْيَضِيْعَ عَلَيْهِ شَيْءٌ مِنْ أَدَوَاتِهِ، وَأَنْ لَايَقِفَ فِي الطَّرِيْقِ، لِأَجْلِ الْفُضُوْلِ،أَوْيَسْتَوْقِفَ أَحَدَ زُمَلَائِهِ، حَتَّى لَا يَتَأَخَّرَ عَنْ مِيْعَادِ الْمَدْرَسَةِ.",
+            "إِذَا مَشَى مَعَ زُمَلَائِهِ، فَلَا يَمْزَحْ مَعَهُمْ، وَلَا يَرْفَعْ صَوْتَهُ إِذَاتَكَلَّمَ، أَوْضَحِيْكَ، وَلَايَسْتَهْزِئْ بِأَحَدٍ، فَكُلُّ ذَالِكَ قَبِيْحٌ جِدًّا، وَلَا يَلِيْقُ بِالتِّلْمِيْذِ الْمُهَذَّبِ.",
+            "وَلَا يَنْسَ السَّلَامَ عَلَى مَنْ يُصَادِفُهُ فِي طَرِيْقِهِ وَخُصُوْصًا إِذَا كَانَ وَالِدَهُ أَوْ أُسْتَاذَهُ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab Berjalan di Jalanan",
+          "paragraphs": [
+            "Seyogyanya bagi seorang murid untuk berjalan lurus, tidak menoleh ke kanan maupun ke kiri tanpa keperluan. Ia tidak melakukan gerakan yang tidak pantas, tidak terburu-buru dalam berjalan dan tidak pula terlalu lambat. Ia juga tidak makan (sambil berjalan), tidak bernyanyi, atau membaca bukunya saat berjalan.",
+            "Hendaknya ia menjauhi lumpur dan kotoran agar tidak terjatuh atau mengotori pakaiannya. Hendaknya pula ia menjauhi keramaian agar tidak bertabrakan dengan siapa pun atau kehilangan salah satu perlengkapan sekolahnya. Dan hendaknya ia tidak berdiri di jalan karena hal yang tidak berguna (fudhul), atau menghentikan salah satu temannya, agar tidak terlambat dari jadwal sekolah.",
+            "Jika ia berjalan bersama teman-temannya, janganlah ia bercanda dengan mereka, atau mengeraskan suaranya ketika berbicara atau tertawa, dan janganlah ia mengolok-olok siapa pun. Karena semua itu adalah perbuatan yang sangat buruk dan tidak pantas bagi seorang murid yang terdidik.",
+            "Janganlah pula ia lupa mengucapkan salam kepada siapa pun yang ia temui di jalan, terutama jika itu adalah orang tuanya atau gurunya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 28,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ التِّلْمِيْذِ فِي الْمَدْرَسَةِ",
+          "paragraphs": [
+            "إِذَاوَصَلَ التِّلْمِيْذُ إِلَى مَدْرَسَتِهِ يَمْسَحُ حِذَاءَهُ بِالْمِمْسَحَةِ، ثُمَّ يَذْهَبُ إِلَى قِسْمِهِ، فَيَفْتَحُ بَابَهُ بِلُطْفٍ، وَيَدْخُلُ بِأَدَبٍ، وَيُسَلِّمُ عَلَى زُمَلَائِهِ وَيُصَافِحُهُمْ، وَهُوَ مُبْتَسِمٌ، قَائِلًا: صَبَاحُ الْخَيْرِوَالسُّرُوْرِ، ثُمَّ يَضَعُ مَحْفَظَتَهُ فِي دُرْجِ مَقْعَدِهِ، وَإِذَاجَاءَ أُسْتَاذُهُ، يَقُوْمُ مِنْ مَحَلِّهِ، وَيَسْتَقْبِلُهُ بِكُلِّ أَدَبٍ وَاْحْتِرَامِ، وَيُصَافِحُهُ.",
+            "وَإِذَا دَقَّ الْجَرَسُ وَقَفَ مَعَ إِخْوَانِهِ فِي الصَّفِّ مُعْتَدِلًا، وَلَايَتَكَلَّمُ أَوْ يَلْعَبُ مَعَهُمْ، ثُمَّ يَدْخُلُ فَصْلَهُ بَعْدَ إِشَارَةِ الْمُعَلِّمِ، بِكُلِّ هُدُوْءٍ وَسُكُوْنٍ، فَيَقْصِدُ مَقْعَدَهُ وَيَجْلِسُ جِلْسَةً طَيِّبَةً: بِأَنْ يَسْتَقِيْمَ، وَلَا يُعَوِّجَ ظَهْرَهُ، وَلَايُحَرِّكَ رِجْلَيْهِ، وَلَا يُزَاحِمَ غَيْرَهُ، وَلَا يَضَعَ رِجْلًا عَلَى رِجْلٍ، وَلَايَبْعَثَ بِيَدَيْهِ، وَلَايَضَعَ يَدَهُ تَحْتَ خَدِّهِ.",
+            "وَأَنْ يُنْصِتَ لِلدَّرْسِ، وَلَايَلْتَفِتَ يَمِيْنًا وَلَاشِمَالًا، بَلْ يُقَابِلَ أُسْتَاذَهُ، وَلَايُكَلِّمَ أَحَدًا أَوْيُضْحِكَهُ، لِأَنَّ ذَالِكَ يَمْنَعُهُ عَنْ فَهْمِ الدَّرْسِ، وَيَمْنَعُ غَيْرَهُ أَيْضًا عَنْ فَهْمِهِ، فَيَغْضَبُ عَلَيْهِ الْأُسْتَاذُ، وَإِذَا لَمْ يَفْهَمْ دُرُوْسَهُ، فَلَابُدَّ أَنْ يَسْقُطَ فِي الْإِمْتِحَانِ"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang pelajar di sekolah",
+          "paragraphs": [
+            "Apabila seorang pelajar tiba di sekolahnya, ia membersihkan sepatunya dengan keset, lalu pergi ke kelasnya. Ia membuka pintu dengan lembut, masuk dengan sopan, mengucapkan salam kepada teman-temannya dan bersalaman dengan mereka sambil tersenyum, berkata: 'Selamat pagi dan bahagia.' Kemudian ia meletakkan tasnya di laci mejanya. Dan jika gurunya datang, ia bangkit dari tempat duduknya, menyambutnya dengan penuh adab dan hormat, serta bersalaman dengannya.",
+            "Jika bel berbunyi, ia berdiri bersama teman-temannya di barisan dengan tegak lurus, tidak berbicara atau bermain dengan mereka. Kemudian ia masuk ke kelasnya setelah isyarat dari guru, dengan penuh ketenangan dan kesunyian. Ia menuju tempat duduknya dan duduk dengan baik: yaitu dengan tegak, tidak membungkukkan punggungnya, tidak menggerakkan kakinya, tidak berdesak-desakan dengan orang lain, tidak menyilangkan kaki, tidak mengayunkan tangan, dan tidak meletakkan tangannya di bawah pipi.",
+            "Dan hendaknya ia mendengarkan pelajaran dengan saksama, tidak menoleh ke kanan maupun ke kiri, melainkan menghadap gurunya. Jangan berbicara atau membuat orang lain tertawa, karena hal itu akan menghalanginya untuk memahami pelajaran, dan juga menghalangi orang lain untuk memahaminya, sehingga guru akan marah kepadanya. Dan jika ia tidak memahami pelajarannya, niscaya ia akan gagal dalam ujian."
+          ]
+        }
+      }
+    },
+    {
+      "id": 29,
+      "lesson_content": {
+        "arabic": {
+          "title": "كَيْفَ يُحَافِظُ التِّلْمِيْذُ عَلَى أَدَوَاتِهِ؟",
+          "paragraphs": [
+            "يَجِبُ أَنْ يُحَافِظَ التِّلْمِيْذُ عَلَى أَدَوَاتِهِ: بِأَنْ يُرَتِّبَهَا جَمِيْعًا فِي مَحَلِّهَا، كَيْلَا تَتَغَيَّرَ، أَوْتَضِيْعَ، أَوْتَتَوَسَّخَ، وَإِذَالَمْ يُرَتِّبْهَا، فَلَابُدَّ أَنْ يَتْعَبَ إِذَا أَرَادَ شَيْئًامِنْهَا، وَيَذْهَبَ عَلَيْهِ الْوَقْتُ فِي التَّفْتِيْشِ، وَيَنْبَغِى لَهُ أَنْ يُغَلِّفَ كُتُبَهُ وَدَفَاتِرَهُ، حَتَّى لَاتَتَمَزَّقَ أَوْ تَتَوَسَّخَ، وَلْيَحْذَرْ أَنْ يَلْحَسَ أَصَابِعَهُ، إِذَا أَرَادَ أَنْ يُقَلِّبَ أَوْرَاقَ كُتُبِهِ وَدَفَاتِرِهِ، فَإِنْ ذَالِكَ عَادَةٌ قَبِيْحَةٌ، مُخَالِفَةٌ لِلْأَدَبِ، وَمُضِرَّةٌ بِالصِّحَّةِ.",
+            "وَيَلْزَمُ التِّلْمِيْذَ أَيْضًا أَنْ يُحَافِظَ عَلَى مِرْسَمِهِ، حَتَّى لَايَسْقُطَ فَيَنْكَسِرَ، وَإِذَا أَرَادَ أَنْ يَسُنَّهُ، فَلَا يَسُنَّهُ بِالْمَقْعَدِ أَوِالْقَاعَةِ، أَوْ بِغِلَافِ دَفْتَرِهِ وَكِتَابِهِ، وَلَكِنْ يَسْتَعْمِلَ الْمِقْلَمَةَ أَوِالْمِبْرَاةَ، وَالْيَحْذَرْ أَنْ يَمَصَّ الْقَلَمَ بِشَفَتَيْهِ، أَوْ يَمْسَحَ كِتَابَتَهُ بِرِيْقِهِ، وَلَكِنْ بِالْمِمْسَحَةِ، أَوْ يُنَشِّفَ الْحِبْرَ بِثَوْبِهِ، بَلْ يَسْتَعْمِلَ الْمِنْشَفَةَ"
+          ]
+        },
+        "indonesian": {
+          "title": "Bagaimana seorang pelajar menjaga peralatan sekolahnya?",
+          "paragraphs": [
+            "Wajib bagi seorang pelajar untuk menjaga peralatan sekolahnya, yaitu dengan merapikan semuanya di tempat yang benar agar tidak berubah posisi (tercecer), hilang, atau kotor. Jika ia tidak merapikannya, ia pasti akan kesulitan mencari barang yang diinginkannya, dan waktunya akan terbuang untuk mencari. Hendaknya ia juga menyampuli buku-buku pelajaran dan buku tulisnya agar tidak mudah robek atau kotor. Dan hendaklah ia berhati-hati agar tidak menjilat jari-jarinya ketika hendak membalik halaman buku atau buku tulisnya, karena itu adalah kebiasaan buruk, bertentangan dengan adab yang baik, dan berbahaya bagi kesehatan.",
+            "Seorang pelajar juga wajib menjaga pensilnya agar tidak terjatuh dan patah. Jika ia ingin merautnya, jangan merautnya di kursi, di lantai, atau dengan sampul buku tulis atau bukunya, melainkan gunakanlah rautan pensil. Dan hendaklah ia berhati-hati agar tidak mengisap pulpen dengan bibirnya, atau menghapus tulisannya dengan ludahnya, melainkan gunakanlah penghapus. Atau jangan mengeringkan tinta dengan pakaiannya, tetapi gunakanlah lap."
+          ]
+        }
+      }
+    },
+    {
+      "id": 30,
+      "lesson_content": {
+        "arabic": {
+          "title": "كَمَا يَجِبُ عَلَى التِّلْمِيْذِ أَنْ أدوات المدرسة",
+          "paragraphs": [
+            "كَمَا يَجِبُ عَلَى التِّلْمِيْذِ أَنْ يُحَافِظَ عَلَى أَدَوَاتِهِ، كَذَالِكَ يَجِبُ عَلَيْهِ أَنْ يُحَافِظَ عَلَى اَدَوَاتِ الْمَدْرَسَةِ: بِأَنْ لَا يُغَيِّرَ أَوْ يُوَسِّخَ شَيْئًا مِنَ الْمَقَاعِدِ وَالطَّاوِلَاتِ وَالْكَرَاسِيِّ، وَلَا يَكْتُبَ عَلَى جُدْرَانِ الْمَدْرَسَةِ وَأَبْوَابِهَا، وَلَايَكْسِرَ زُجَاجَاتِهَا، وَأَنْ لَا يُوَسِّخَ الْقَاعَةِ: بِأَنْ يَبْصُقَ أَوْ يَتَمَخَّطَ عَلَيْهَا، أَوْيَرْمِيَ بُرَايَةَ الْمِرْسَمِ، وَقِطَعَ الْأَوْرَاقِ عَلَيْهَا، وَلَكِنْ يَطْرَحَهَا فِي السَّلَّةِ الْخَاصَّةِ بِهَا، وَأَنْ لَا يَلْعَبَ بِجَرَسِ الْمَدْرَسَةِ، وَلَايَكْتُبَ فِي سَبُّوْرَتِهَا، أَوْيُغَيِّرَ مِمْسَحَتَهَا"
+          ]
+        },
+        "indonesian": {
+          "title": "Bagaimana seorang pelajar menjaga peralatan milik sekolahnya?",
+          "paragraphs": [
+            "Sebagaimana seorang pelajar wajib menjaga peralatan pribadinya, begitu pula wajib baginya untuk menjaga **peralatan milik sekolah**. Caranya adalah dengan tidak merusak atau mengotori apa pun dari bangku, meja, dan kursi. Ia tidak boleh mencoret-coret dinding dan pintu sekolah, tidak memecahkan kacanya, dan tidak mengotori lantai dengan meludah atau membuang ingus. Ia juga tidak boleh membuang serutan pensil dan potongan kertas sembarangan, melainkan harus membuangnya ke **keranjang sampah khusus**. Hendaknya ia tidak bermain-main dengan **bel sekolah**, tidak menulis di **papan tulis**, atau merusak **penghapusnya**."
+          ]
+        }
+      }
+    },
+    {
+      "id": 31,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ التِّلْمِيْذِ مَعَ أُسْتَاذِهِ",
+          "paragraphs": [
+            "أَيُّهَا التِّلْمِيْذُ الْأَدِيْبُ: إِنَّ أُسْتَاذَكَ يَتْعَبُ كَثِيْرًا فِي تَرْبِيَتِكَ: يُهَذِّبُ أَخْلَاقَكَ، وَيُعَلِّمُكَ الْعِلْمَ الَّذِي يَنْفَعُكَ، وَيَنْصَحُكَ بِنَصَائِحَ مُفِيْدَةٍ، وَكُلُّ ذَالِكَ لِأَنّهُ يُحِبُّكَ كَثِيْرًا، كَمَا يُحِبُّكَ أَبُوْكَ وَأُمُّكَ، وَيَرْجُوْ أَنْ تَكُوْنَ فِي مُسْتَقْبَلِكَ، رَجُلًا عَالِمًا مُهَذَّبًا.",
+            "فَاحْتَرِمْ أُسْتَاذَكَ، كَمَا تَحْتَرِمُ وَالِدَيْكَ: بِأَنْ تَجْلِسَ أَمَامَهُ بِأَدَبٍ، وَتَتَكَلَّمَ مَعَهُ بِأَدِبٍ، وَإِذَاتَكَلَّمَ فَلَا تَقْطَعَ كَلَامَهُ، وَلَكِنِ اْنْتَظِرْ إِلَى أَنْ يَفْرُغَ مِنْهُ، وَاْسْتَمِعْ إِلَى مَايُلْقِيْهِ مِنَ الدُّرُوْسِ، وَإِذَا لَمْ تَفْهَمْ شَيْئًا مِنْ دُرُوْسِكَ، فَاسْأَلْهُ بِلُطْفٍ وَاحْتِرَامِ: بِأَنْ تَرْفَعَ أُصْبُعَكَ أَوَّلًا، حَتَّى يَأْذَنَ لَكَ فِي السُّؤَالِ، وَإِذَا سَأَلَكَ عَنْ شَيْءٍ، فَقُمْ وَأَجِبْ عَلَى سُؤَالِهِ بِجَوَابٍ حَسَنٍ، وَلَا يَجُوْزُ أَنْ تُجِيْبَ إِذَا سَأَلَ غَيْرَكَ، فَهَذَا لَيْسَ مِنَ الْأَدَبِ.",
+            "إِذَا أَرَدْتَ أَنْ يُحِبَّكَ أُسْتَاذُكَ، فَقُمْ بِوَاجِبَاتُكَ، وَهِيَ: أَنْ تُوَاظِبَ عَلَى الْحُضُوْرِ كُلَّ يَوْمٍ فِي الْوَقْتِ الْمُعَيَّنِ، فَلَا تَغِيْبَ أَوْ تَجِئَ مُتَأَخِّرًا إِلَّا لِعُذْرٍ صَحِيْحٍ، وَأَنْ تُبَادِرَ أَيْضًا إِلَى الدُّخُوْلِ فِي الْفَصْلِ بَعْدَ الْإِسِتِرَاحَةِ، وَاْحْذَرْ أَنْ تُحِبَّ التَّأَخُّرَ فَإِذَا عَاتَبَكَ الْأُسْتَاُذ تَعْتَذِرُ أَمَامَهُ بِأَعْذَارٍ بَاطِلَةٍ، وَأَنْ تَفْهَمَ دُرُوْسَكَ كُلَّهَا، وَتُدَاوِمَ عَلَى حِفْظِهَا وَمُطَالَعَتِهَا، وَتَعْتَنِيَ بِنَظَافَةِ كُتُبِكَ وَأَدَوَاتِكَ وَتَرْتِيْبِهَا، وَتَخْضَعَ لِأَوَامِرِالْأُسْتَاذِ مِنْ قَبْلِكَ، لَاخَوْفًا مِنَ الْعِقَابِ، وَأَنْ لَاتَغْضَبَ إِذَا أَدَّبَكَ، لِأَنَّهُ مَايُؤَدِّبُكَ إِلَّا لِتُؤَدِّيَ وَاجِبَاتِكَ، وَسَوْفَ تَشْكُرُهُ عَلَى ذَالِكَ، إِذَا كَبِرْتَ.",
+            "وَأُسْتَاذُكَ مَعَ تَأْدِيْبِهِ لَكَ يُحِبُّكَ، وَيَرْجُوْ أَنْ يُفِيْدَكَ هَذَا التَّأْدِيْبُ، وَلِذَالِكَ فَاشْكُرْهُ عَلَى إِخْلَاصِهِ فِي تَرْبِيَتِكَ، وَلَا تَنْسَ جَمِيْلَهُ أَبَدًا، وَأَمَّا التِّلْمِيْذُ الْفَاسِدُ الْأَخْلَاقِ، فَإِنَّهُ يَغْضَبُ إِذَا أَدَّبَهُ أُسْتَاذُهُ، وَقَدْ يَشْتَكِى ذَالِكَ إِلَى وَالِدِهِ."
+          ]
+        },
+        "indonesian": {
+          "title": "Adab seorang Pelajar kepada gurunya",
+          "paragraphs": [
+            "Wahai pelajar yang beradab: Sesungguhnya gurumu sangatlah lelah dalam mendidikmu. Ia mendidik akhlakmu, mengajarkanmu ilmu yang bermanfaat, dan menasihatimu dengan nasihat-nasihat yang berguna. Semua itu ia lakukan karena ia sangat mencintaimu, sebagaimana ayah dan ibumu mencintaimu. Ia berharap kelak di masa depan engkau menjadi seorang yang berilmu dan beradab.",
+            "Maka hormatilah gurumu, sebagaimana engkau menghormati kedua orang tuamu: yaitu dengan duduk di hadapannya dengan sopan, berbicara dengannya dengan adab. Jika ia sedang berbicara, jangan memotong pembicaraannya, tetapi tunggulah sampai ia selesai, dan dengarkanlah dengan saksama apa yang ia sampaikan dari pelajaran-pelajaran. Jika engkau tidak memahami sesuatu dari pelajaranmu, tanyakanlah kepadanya dengan lembut dan hormat, yaitu dengan mengangkat jarimu terlebih dahulu sampai ia mengizinkanmu untuk bertanya. Dan jika ia bertanya kepadamu tentang sesuatu, berdirilah dan jawablah pertanyaannya dengan jawaban yang baik. Tidak diperbolehkan bagimu untuk menjawab jika ia bertanya kepada orang lain, karena ini bukanlah termasuk adab.",
+            "Jika engkau ingin gurumu mencintaimu, maka laksanakanlah kewajiban-kewajibanmu, yaitu: hendaknya engkau rajin hadir setiap hari pada waktu yang telah ditentukan, jangan membolos atau datang terlambat kecuali karena uzur yang benar. Hendaknya engkau juga bersegera masuk ke kelas setelah istirahat, dan berhati-hatilah agar tidak suka terlambat. Jika gurumu menegurmu, janganlah mencari-cari alasan palsu di hadapannya. Pahamkanlah seluruh pelajaranmu, terus-menerus menghafal dan menelaahnya, perhatikan kebersihan buku-buku dan peralatanmu serta kerapiannya, dan tunduklah pada perintah guru karena kesadaranmu sendiri, bukan karena takut hukuman. Dan jangan marah jika ia mendidikmu, karena ia tidak mendidikmu kecuali agar engkau menunaikan kewajiban-kewajibanmu, dan engkau akan berterima kasih kepadanya atas hal itu ketika engkau dewasa.",
+            "Dan gurumu, meskipun ia mendidikmu, sesungguhnya ia mencintaimu dan berharap pendidikan ini bermanfaat bagimu. Oleh karena itu, berterima kasihlah kepadanya atas keikhlasannya dalam mendidikmu, dan jangan pernah melupakan kebaikannya. Adapun pelajar yang berakhlak buruk, ia akan marah jika gurunya mendidiknya, dan terkadang ia mengeluhkannya kepada orang tuanya."
+          ]
+        }
+      }
+    },
+    {
+      "id": 32,
+      "lesson_content": {
+        "arabic": {
+          "title": "آدَابُ التِّلْمِيْذِ مَعَ زُمَلَائِهِ",
+          "paragraphs": [
+            "أَيُّهَا التِّلْمِيْذُ النَّجِيْبُ: أَنْتَ تَتَعَلَّمُ مَعَ زُمَلَائِكَ فِي مَدْرَسَةٍ وَاحِدَةٍ، كَمَا أَنَّكَ تَعِيْشُ مَعَ إِخْوَاتِكَ فِي بَيْتٍ وَاحِدٍ، فَلِذَالِكَ أَحِبَّهُمْ كَمَا تُحِبُّ إِخْوَاتَكَ، وَاْحْتَرِمْ مِنْ هُوَ أَكْبَرُ مِنْكَ، وَاْرْحَمْ مَنْ هُوَ أَصْغَرُ مِنْكَ، وَتَسَاعَدْ مَعَ زُمَلَائِكَ وَقْتَ الدَّرْسِ، عَلَى اْسْتِمَاعِ كَلَامِ الْأُسْتَاذِ، وَعَلَى حِفْظِ النِّظَامِ، وَالْعَبْ مَعَهُمْ فِي وَقْتِ الْإِسْتِرَاحَةِ فِي السَّاحَةِ، لَافِي الْقِسْمِ، وَاْبْتَعِدْ عَنِ الْمُقَاطَعَةِ وَالْمُنَازَعَةِ، وَالصِّيَاحِ، وَعَنِ اللَّعَبِ الَّذِي لَايَلِيْقُ بِكَ.",
+            "إِذَا أَرَدْتَ أَنْ تَكُوْنَ مَحْبُوْبًا بَيْنَ زُمَلَائِكَ، فَلَا تَبْخَلْ عَلَيْهِمْ، إِذَا اْسْتَعَارُوا مِنْكَ شَيْئًا، لِأَنَّ الْبُخْلَ قَبِيْحٌ جِدًّا، وَلَا تَتَكَبَّرْ عَلَيْهِمْ، إِذَا كُنْتَ ذَكِيًّا، أَوْمُجْتَهِدًا، أَوْ غَنِيًّا، لِأَنَّ الْكِبْرَ لَيْسَ مِنْ أَخْلَاقِ الْأَوْلَادِ الطَّيِّبِيْنَ، وَلَكِنْ إِذَا رَأَيْتَ تِلْمِيْذًا كَيْلَانْ، فَانْصَحْهُ لِيَجْتَهِدَ، وَيَتْرُكَ الْكَسَلَ، أَوْبَلِيْدًا، فَسَاعِدْهُ عَلَى فَهْمِ دُرُوْسَهُ، أَوْ فَقِيْرًا فَاْرْحَمْهُ، وَسَاعِدْهُ بِمَا قَدَرْتَ مِنَ الْمُسَاعَدَةِ.",
+            "لَا تُؤْذِ زَمِيْلَكَ: بِأَنْ تُضَايِقَهُ فِي مَكَانِهِ، أَوْتَخْبَأَ بَعْدَ أَدَوَاتِهِ، أَوْتُصَعِّرَلَهُ خَدَّكَ، أَوْتَنْظُرَ إَلَيْهِ بِعَيْنٍ حَادَّةٍ، أَوْتُسِئَ الظَّنَّ بِهِ، وَلَا تُؤْذِهِ أَيْضًا: بِأَنْ تَصِيْحَ عَلَيْهِ مِنَ الْوَرَاءِ، لِكَيْ يَنْدَهِشَ، أَوْ تَنْفُخَ فِي أُذَنِهِ، أَوْتُصَوِّتَ فِيْهَا، وَإِذَا اْسْتَعَرْتَ مِنْهُ شَيْئًا، فَلَا تُغَيِّرْهُ، أَوْتُضَيِّعْهُ، أَوْتُوَسِّخْهُ، وَأَرْجِعْهُ إِلَيْهِ بِسُرْعَةٍ، وَاْشْكُرْهُ عَلَى إِحْسَانِهِ.",
+            "إِذَاتَكَلَّمْتَ مَعَ زَمِيْلِكَ، فَتَكَلَّمْ بِلُطْفٍ وَاْبْتِسَامٍ، وَلَا تَرْفَعْ صَوْتَكَ، أَوْتُعَبِّسْ بِوَجْهِكَ، وَاْحْذَرْ مِنَ الْغَضَبِ وَالْحَسَدِ، وَالْكَلَامِ الْقَبِيْحِ، وَمِنَ الْكَذِبِ وَالشَّتْمِ وَالنَّمِيْمَةِ، وَلَا تَحْلِفْ فِي كَلَامِكَ، وَلَوْكُنْتَ صَادِقًا"
+          ]
+        },
+        "indonesian": {
+          "title": "Adab Seorang Santri dengan Teman-temannya",
+          "paragraphs": [
+            "Wahai pelajar yang cerdas: Engkau belajar bersama teman-temanmu di sekolah yang sama, sebagaimana engkau tinggal bersama saudara-saudarimu di rumah yang sama. Oleh karena itu, cintailah mereka sebagaimana engkau mencintai saudara-saudarimu, hormatilah yang lebih tua darimu, dan sayangilah yang lebih muda darimu. Saling bantulah dengan teman-temanmu saat belajar, dengarkan perkataan guru, jaga ketertiban, dan bermainlah bersama mereka saat istirahat di halaman, bukan di kelas. Jauhilah pertengkaran, perselisihan, berteriak-teriak, dan permainan yang tidak pantas bagimu.",
+            "Jika engkau ingin dicintai oleh teman-temanmu, janganlah pelit kepada mereka jika mereka meminjam sesuatu darimu, karena kikir itu sangatlah buruk. Jangan pula bersikap sombong kepada mereka jika engkau cerdas, rajin, atau kaya, karena kesombongan bukanlah akhlak anak-anak yang baik. Namun, jika engkau melihat seorang murid malas, nasihatilah ia agar rajin dan meninggalkan kemalasan. Atau jika ia lamban dalam memahami, bantulah ia untuk memahami pelajarannya. Atau jika ia miskin, sayangilah ia dan bantulah ia semampumu.",
+            "Jangan menyakiti temanmu: dengan menyempitkan tempatnya, atau menyembunyikan sebagian peralatannya, atau memalingkan wajahmu kepadanya (dengan angkuh), atau memandangnya dengan tatapan tajam, atau berprasangka buruk kepadanya. Jangan pula menyakitinya dengan: berteriak kepadanya dari belakang agar ia terkejut, atau meniup telinganya, atau membuat suara di dalamnya. Jika kamu meminjam sesuatu darinya, jangan merusaknya, menghilangkannya, atau mengotorinya, dan kembalikanlah dengan segera. Ucapkan terima kasih atas kebaikannya.",
+            "Jika kamu berbicara dengan temanmu, bicaralah dengan lembut dan senyum. Jangan meninggikan suaramu atau bermuka masam. Berhati-hatilah dari kemarahan, kedengkian, perkataan buruk, kebohongan, cacian, dan adu domba. Dan jangan bersumpah dalam perkataanmu, meskipun kamu berkata jujur."
+          ]
+        }
+      }
+    },
+    {
+      "id": 33,
+      "lesson_content": {
+        "arabic": {
+          "title": "نَصَائِحُ عَامَّةٌ",
+          "paragraphs": [
+            "أَيُّهَا الْوَلَدُ النَّجِيْبُ: إِذَا طَلَبْتَ مِنْ أَحَدٍ شَيْئًا، فَلَا تَقُلْ لَهُ: هَاتِ ذَالِكَ، إِفْعَلْ كَذَا، مَثَلًا، وَلَكَنِ اسْتَعْمِلِ الْأَدَبَ وَقُلْ: تَفَضَّلْ، أَوْمِنْ فَضْلِكَ افْعَلْ كَذَا، ثُمَّ اشْكُرْهُ عَلَى مُسَاعَدَتِهِ لَكَ، قَائِلًا: مُتَشَكِّرُ، أَوْأَشْكُرُكَ، أَوْجَزَاكَ اللهُ خَيْرًا.",
+            "إِذَا كَلَّمَكَ أَحَدٌ فَأَصْغِ إِلَيْهِ، وَلَا تَقْطَعْ عَلَيْهِ كَلَامَهُ، وَلَكِنِ انْتَظِرْ إِلَى أَنْ يَفْرُغَ مِنْهُ، وَإِذَا أَتَى لَكَ بِكَلَامٍ أَوْحِكَايَةٍ، قَدْ سَمِعْتَهَا، فَلَا تَقُلْ لَهُ: إِنِّى قَدْ سَمِعْتُ هَذِهِ الْحِكَايَةِ، كَيْلَا يَنْكَسِرَ قَلْبُهُ.",
+            "حَافِظْ عَلَى نَظَافَةِ أَسْنَانِكَ: بِأَنْ تَسْتَعْمِلَ السِّوَاكَ أَوْالْفُرْشَاةَ، كُلَّ يَوْمٍ، حَتَّى تَبْقَى نَظِيْفَةً، لَا تَتَغَيَّرُ، وَإِيَّاكَ أَنْ تَمَصَّ أُصْبُعَكَ، أَوْ تَقْرِضَ أَظْفَارَكَ بِأَسْنَانِكَ، أَوْ تُدْخِلَ أُصْبُعَكَ فِي أَنْفِكَ، أَوْفِي أُذُنِكَ، وَلَا سِيَّمَا أَمَامَ النَّاسِ.",
+            "مِنَ الْعَادَاتِ الْقَبِيْحَةِ: أَنْ يَتَطَلَّعَ الْوَلَدُ إِلَى أَسْرَارِ غَيْرِهِ، فَإِذَا رَآى رِسَالَةً لَيْسَتْ لَهُ قَرَأَهَا، أَوْنَظَرَ أَحَدًا يَقْرَأُ رِسَالَةً، سَأَلَهُ: مِنْ أَيْنَ جَاءَتْ هَذِهِ الرِّسَالَةُ، وَمَاذَافِيْهَا؟ أَوْوَجَدَ اثْنَيْنِ يَتَكَلَّمَانِ، قَرُبَ مِنْهُمَا، لِيَسْمَعَ كَلَامَهُمَا"
+          ]
+        },
+        "indonesian": {
+          "title": "Nasehat Umum",
+          "paragraphs": [
+            "Wahai anak yang cerdas: Jika kamu meminta sesuatu dari seseorang, janganlah berkata kepadanya: \"Ambilkan itu!\" atau \"Lakukan ini!\" Misalnya, tetapi gunakanlah adab dan katakan: \"Tolong,\" atau \"Mohon lakukan ini.\" Kemudian, berterima kasihlah atas bantuannya kepadamu dengan berkata: \"Terima kasih,\" atau \"Saya berterima kasih kepadamu,\" atau \"Jazakallah khairan (Semoga Allah membalasmu dengan kebaikan).\"",
+            "Jika seseorang berbicara kepadamu, dengarkanlah ia dengan baik, dan jangan memotong pembicaraannya. Tetapi tunggulah sampai ia selesai berbicara. Jika ia menceritakan sesuatu atau sebuah kisah yang sudah kamu dengar, jangan katakan kepadanya: \"Aku sudah mendengar cerita ini,\" agar tidak melukai perasaannya.",
+            "Jagalah kebersihan gigimu: yaitu dengan menggunakan siwak atau sikat gigi setiap hari, agar tetap bersih dan tidak berubah. Dan jauhilah kebiasaan mengisap jarimu, atau menggigit kukumu dengan gigimu, atau memasukkan jarimu ke hidungmu atau telingamu, terutama di hadapan orang lain.",
+            "Di antara kebiasaan buruk adalah seorang anak ingin mengetahui rahasia orang lain. Jika ia melihat surat yang bukan miliknya, ia membacanya. Atau jika ia melihat seseorang membaca surat, ia bertanya kepadanya: \"Dari mana datangnya surat ini, dan apa isinya?\" Atau jika ia menemukan dua orang sedang berbicara, ia mendekati mereka untuk mendengarkan pembicaraan mereka."
+          ]
+        }
+      }
+    },
+    {
+      "id": 34,
+      "lesson_content": {
+        "arabic": {
+          "title": "(نَصَائِحُ عَامَّةٌ (2",
+          "paragraphs": [
+            "وَمِنْ قَبَائِحِ الْعَادَاتِ أَيْضًا: أَنْ يَسْتَعْمِلَ التِّلْمِيْذُ كِتَابَ غَيْرِهِ أَوْمِرْسَمَهُ، بِغَيْرِإِذْنِهِ، أَوْيَجِدَ فِي الطَّرِيْقِ شَيْئًا ضَائِعًا، فَيَتَمَلَّكَهُ، وَالْوَاجِبُ عَلَيْهِ أَنْ يَرُدَّهُ إِلَى مَالِكِهِ، وَأَيْضًا أَنْ يَسْتَعِيْرَ شَيْئًا، فَيُغَيِّرَهُ، أَوْلَايُحِبَّ أَنْ يُعِيْدَهُ إِلَى صَاحِبِهِ.",
+            "وَمِنَ الْعَادَتِ الْمَكْرُوْهَةِ أَيْضًا: إِذَا سُئِلَ الْوَلَدُ أَنْ يُجِيْبَ بِتَحْرِيْكِ رَأْسِهِ أَوْكَتِفِهِ، أَوْيُسَارِعَ إِلَى الْجَوَابِ، وَالْمَسْئُوْلُ غَيْرُهُ.",
+            "مِنَ الْعَيْبِ أَنْ يُهْمِلَ الْوَلَدُ قَضَّ شَعْرِهِ، أَوْحَلْقَهُ، أَوْتَمْشِيْطَهُ، حَتَّى يَطُوْلَ وَيَكُوْنَ مَنْظَرُهُ قَبِيْحًا، وَأَيْضًا أَنْ لَايُقَلِّمَ أَظْفَارَهُ، حَتَّى تَتَرَاكَمَ تَحْتَهَا الْأَوْسَاخُ، وَأَنْ لَا يَغْتَسِلَ، أَوْ لَا يُبَدِّلَ ثِيَابَهُ، حَتَّى تَخْرُجَ مِنْهُ رَائِحَةُ كَرِيْهَةٌ.",
+            "إِحْذَرْمِنَ اللَّعَبِ بِشَيْءٍ يَضُرُّكَ، كَاالتُّرَابِ وَالنَّارِ وَالْأَوْسَاخِ، فَقَدْ يَلْعَبُ الْوَلَدُ بِالثِّقَابِ (الشَّخْتِ) فَتَشْتَعِلُ النَّارُفِي مَلَابِسِهِ، وَيَحْتَرِقُ جِسْمُهُ، أَوْيَلْعَبُ بِالْأَوْسَاخِ فَيُصِيْبُهُ الْجَرَبُ وَالْحِكَّةُ، وَاحْذَرْ أَيْضًا أَنْ تَتَزَحْلَقَ فَوْقَ حَاجِزِ السُّلَّمِ، أَوْتَطْلَعَ الْقِرْمِيْدَ، أَوِالشَّجَرَةَ، حَتَّى لَا تَسْقُطَ، فَيَنْكَسِرَشَيْءٌ مِنْ أَعْضَائِكَ، أَوْيُجْرَحَ.",
+            "حَافِظْ عَلَى صِحَّتِكَ: بِأَنْ تَتَرَيَّضَ فِي الْهَوَاءِ النَّقِيِّ كُلَّ صَبَاحٍ لِيَصِحَّ جِسْمُكَ، فَالْعَقْلُ السَّلِيْمُ فِي الْجِسْمِ السَّلِيْمِ، وَاسْتَنْشِقِ الْهَوَاءَ بِأَنْفِكَ لَا بِفَمِكَ، وَابْتَعِدْ عَنِ الْهَوَاءِ الْوَخِيْمِ، وَلَاتَأْكُلْ طَعَامًا مَكْشُوْفًا، فَرُبَّمَا دَبَّتْ عَلَيْهِ وَزَغَةٌ أَوْ فَأْرَةٌ أَوْ غَيْرُهُمَا مِنَ الْحَشَرَاتِ، وَلَاتَأْكُلْ فَاكِهَةً فِجَّةً أَوْعَفِنَةً، وَكُلِ الْفَاكِهَةَ النَّاضِجَةَ بَعْدَ غَسْلِهَا جَيِّدًا، وَلَاتَشْرَبْ مَاءً كَدِرًا، وَلَا تَدَعِ الْبَعُوْضَ يَقْرِصُكَ، وَابْتَعِدْ عَنِ الذُّبَابِ، وَاطْرُدْهُ عَنْ وَجْهِكَ، وَلَا تَأْكُلْ طَعَامًا حَطَّ عَلَيْهِ، وَلَا تَكُنْ مِثْلَ الْأَوْلَادِ الشَّرِهِيْنَ الَّذِيْنَ يَأْكُلُوْنَ مِنَ الْأَطْعِمَةِ الَّتِى تُبَاعُ فِي الطُّرُقَاتِ، فِي آنِيَةٍ قَذِرَةٍ مُعَرَّضَةٍ لِلْأَتْرِبَةِ وَالذُّبَابِ.",
+            "وَمِنَ الْعَادَتِ الْمُضِرَّةِ أَيْضًا: اْلإِسْرَافُ وَالتَّبْذِيْرُ، فَمَثَلًا إِذَا أَعْطَى الْوَالِدُ وَلَدَهُ دَرَاهِمَ، اْشْتَرَى بِهَا أَشْيَاءَ لَا تُفِيْدُهُ، أَوْلَايَحْتَاجُ إِلَيْهَا حَاجَةً شَدِيْدَةً، فَيُضْطَرُّ إِلَى أَنْ يَسْتَدِيْنَ مِنْ أَصْحَابِهِ إِذَا حْتَاجَ إِلَى شَيْءٍ، وَيَتَعَوَّدَ الدَّيْنَ مِنْ صِغَرِهِ.",
+            "وَأَمَّا الْوَلَدُ الْعَاقِلُ فَإِنَّهُ يُحِبُّ التَّوْفِيْرَ وَاْلْإِدِّخَارَ، وَلِذَالِكَ لَا يَحْتَاجُ إِلَى الدَّيْنِ فَيَعِيْشُ فِي هَنَاءٍ وَسُرُوْرٍ"
+          ]
+        },
+        "indonesian": {
+          "title": "Nasehat umum bagian 2",
+          "paragraphs": [
+            "Di antara kebiasaan buruk juga adalah: seorang murid menggunakan buku atau pensil orang lain tanpa izinnya, atau menemukan barang hilang di jalan lalu ia memilikinya, padahal kewajibannya adalah mengembalikannya kepada pemiliknya. Demikian pula, meminjam sesuatu lalu merusaknya, atau tidak mau mengembalikannya kepada pemiliknya.",
+            "Dan di antara kebiasaan yang makruh juga adalah: jika seorang anak ditanya lalu ia menjawab dengan menggerakkan kepala atau bahunya, atau terburu-buru dalam menjawab padahal yang ditanya adalah orang lain.",
+            "Termasuk aib jika seorang anak mengabaikan urusan memotong, mencukur, atau menyisir rambutnya hingga memanjang dan terlihat buruk. Demikian pula jika ia tidak memotong kukunya hingga kotoran menumpuk di bawahnya, dan jika ia tidak mandi atau tidak mengganti pakaiannya hingga mengeluarkan bau tak sedap.",
+            "Jauhilah bermain dengan sesuatu yang membahayakanmu seperti debu, api, dan kotoran. Terkadang seorang anak bermain dengan korek api, lalu api menyala di bajunya dan badannya terbakar. Atau bermain dengan kotoran hingga ia terkena kudis dan gatal-gatal. Dan hindarilah kamu meluncur di atas pagar tangga, atau memanjat genteng, atau pohon, agar engkau tidak terjatuh dan salah satu anggota tubuhmu patah atau terluka.",
+            "Jagalah kesehatanmu dengan berolahraga di udara bersih setiap pagi agar tubuhmu sehat, karena akal yang sehat terdapat pada tubuh yang sehat. Hiruplah udara dengan hidungmu, bukan dengan mulutmu, dan jauhilah udara yang buruk. Jangan makan makanan yang terbuka, karena mungkin saja cicak, tikus, atau serangga lainnya telah merayap di atasnya. Jangan makan buah yang mentah atau busuk. Makanlah buah yang matang setelah dicuci bersih. Jangan minum air keruh, dan jangan biarkan nyamuk menggigitmu. Jauhilah lalat dan usirlah dari wajahmu. Jangan makan makanan yang dihinggapi lalat, dan janganlah kamu seperti anak-anak rakus yang memakan semua makanan yang dijual di jalanan, di wadah kotor yang terpapar debu dan lalat.",
+            "Dan di antara kebiasaan yang merugikan juga adalah: pemborosan dan penghamburan. Misalnya, jika seorang ayah memberikan uang kepada anaknya, lalu anak itu membeli barang-barang yang tidak bermanfaat baginya, atau ia tidak sangat membutuhkannya. Akibatnya, ia terpaksa berhutang kepada teman-temannya jika ia membutuhkan sesuatu, dan ia menjadi terbiasa berhutang sejak kecil.",
+            "Adapun anak yang berakal, ia menyukai penghematan dan menabung. Oleh karena itu, ia tidak membutuhkan hutang, sehingga ia hidup dalam kesejahteraan dan kebahagiaan."
+          ]
+        }
+      }
+    }
+  ]
+}
